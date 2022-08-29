@@ -1,0 +1,1390 @@
+<!doctype html>
+<html lang=en>
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><meta name=viewport content="width=device-width,initial-scale=1"><title>ANDREWS SUPERCAR COLLECTION 🔥</title><link rel=canonical href=https://rumble.com/v1glwqc-andrews-supercar-collection-.html><link rel=dns-prefetch href=https://connect.facebook.net><link rel=dns-prefetch href=https://www.facebook.com><link rel=dns-prefetch href=https://imasdk.googleapis.com><link rel=preconnect href=https://www.google-analytics.com><link rel=preconnect href=https://www.googletagservices.com crossorigin><link rel=preconnect href=https://www.googletagmanager.com crossorigin><link rel=preconnect href=https://sp.rmbl.ws><style>html{
+	background: #f3f3f7;
+	color:#333;
+	font: normal 14px/1.15 sans-serif;
+	-webkit-text-size-adjust: 100%;
+}
+body, a, button, input, textarea, select, option, h1, h2, h3, address, ul, ol { margin: 0; padding: 0; color: inherit; font-family: inherit; font-weight: inherit; font-size: inherit; text-decoration: inherit; font-style: inherit; line-height: inherit; }
+button, [type=button], [type=submit] { -webkit-appearance: button; cursor: pointer; background-color: transparent; border-style: none; }
+ul, ol { list-style: none; }
+label { cursor: pointer; }
+a:hover{ text-decoration: underline; }
+button{
+	white-space:nowrap;
+}
+.h1 {
+	font-size:2rem;
+	line-height: 1;
+	font-weight:normal;
+	margin:0 0 1rem;
+ 	word-wrap: break-word;
+	overflow-wrap: break-word;
+}
+small {
+	font-size: 0.9rem;
+	color: #666;
+}
+.verification-badge-icon {
+	color: #fff;
+	fill: #4C8800;
+}
+.themable-locals-icon {
+	color: #421C52;
+}
+
+/* modifiers */
+.content{
+	background:#fff;
+	padding:1rem;
+}
+
+.container{
+	box-shadow:0 0 3px rgba(0,0,0,0.1);
+	border-top:1px solid #e4e4e4;
+	border-bottom:1px solid #e4e4e4;
+	background:#fff;
+}
+
+.flex {
+	display: flex;
+}
+
+.clear{
+	clear:both;
+}
+.round-button{
+	display: inline-flex;
+	padding: 0.5rem 0.7rem;
+	border-radius: 10rem;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+	font-weight: 600;
+	margin-left: 0.35rem;
+	margin-right: 0.35rem;
+	font-size: 1rem;
+	text-transform: uppercase;
+	opacity: 1;
+	align-items: center;
+}
+.round-button:hover{
+	text-decoration:none;
+	opacity:0.85;
+}
+.round-button:disabled,
+.round-button:disabled:hover {
+	background: #999;
+	cursor: default;
+}
+.bg-green{
+	background: #4C8800;
+	color:#fff;
+}
+.bg-green:hover,
+.bg-green:focus-visible {
+	background: #407200;
+	opacity: 1;
+}
+.bg-blue{
+	background: #37c;
+	color:#fff;
+}
+.bg-blue:hover,
+.bg-blue:focus-visible {
+	background: #2A62A7;
+	opacity: 1;
+}
+.bg-red{
+	background:#b70000;
+	color:#fff;
+}
+.bg-grey{
+	background:#999;
+	color:#fff;
+}
+.bg-white{
+	background:#fff;
+	color:#000;
+}
+.select-arrow-bg{
+	-moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+	background-image:  url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 34 21'%3E%3Cpath d='M16.984 12.888L4.682 1.022.984 4.589l16 15.433 16-15.433-3.698-3.567z' /%3E%3C/svg%3E");
+	background-repeat: no-repeat;
+	background-position:  92% center;
+	background-size: 8px;
+}
+
+/* layout columns */
+.thirds{
+	margin-left:-1rem;
+	margin-right:-1rem;
+}
+.two-thirds, .one-thirds{
+	width:100%;
+	padding: 1.5rem 0;
+	box-sizing:border-box;
+}main{
+	padding:2rem 0;
+}
+.constrained{
+	box-sizing:border-box;
+	padding-left:1rem;
+	padding-right:1rem;
+}.theatre-mode {
+	overflow-x: hidden;
+}
+.theatre-mode .header {
+	box-shadow: none;
+}
+.theatre-mode main{
+	padding-top: 0;
+}
+.theatre-mode #theatreVideoPlayer {
+	position: relative;
+	z-index: 0;
+	background: #000;
+	border-top: 1px solid #333;
+    margin-left: calc(50% - 50vw);
+    margin-right: calc(50% - 50vw);
+    height: 85vh;
+    box-shadow: 0 0 25px 0 rgb(0 0 0 / 25%);
+    margin-bottom: 2rem;
+}
+.media-under-title{
+	display:flex;
+	align-items:center;
+	margin-bottom:1rem;
+}
+.mediaList-list.related{
+	max-width:500px;
+	margin:0 auto;
+}
+.media-content,.media-sidebar{
+	margin:0 -1rem;
+}
+.play-count{
+	float: right;
+	margin-top: 12px;
+	font-size: 12px;
+	margin-left:6px;
+}
+#sovrn_beacon {
+	position: fixed;
+}
+
+#video-comments-loading {
+	text-align: center;
+	margin: 3rem 0;
+	color: #666;
+}
+
+.loading-spinner {
+	margin: 1rem auto;
+	width: 2.5rem;
+	height: 2.5rem;
+	border: 0.5rem solid #ccc;
+	border-top-color: #74a642;
+	border-radius: 50%;
+	animation: loading-spin 1s linear infinite;
+}
+
+@keyframes loading-spin {
+	100% { transform: rotate(360deg) }
+}i.user-image--img { display: inline-block; box-sizing: border-box; border: 1px solid #eee; border-radius: 50%; background-color: white; background-position: center; background-repeat: no-repeat; background-size: cover; }i.user-image--img--id-a028060d28a65a542d26cee2d12a9a63 { background-image: url(https://sp.rmbl.ws/z8/V/b/-/g/Vb-ga.baa.2-TateSpeech-rh39nn.jpeg); }.media-user-image{
+	font-size: 3.4rem; width: 3.4rem; height: 3.4rem;
+	position:absolute;
+	left:0;
+	top:0;
+}
+.media-by{
+	float:left;
+	position:relative;
+	display:flex;
+	height:3rem;
+	align-items: center;
+	font-size:1rem;
+	min-width: 50%;
+}
+.media-by--a:hover { text-decoration: none; }
+.media-by--a:hover .media-heading-name { text-decoration: underline; }
+.media-by-wrap{
+	margin-left:3.8rem;
+	margin-top:5px;
+	min-width: 0;
+}
+.media-heading-name{
+	font-weight: 600;
+	margin:0 0 -4px;
+	display:inline-block;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	max-width: 100%;
+}
+.media-heading-published{
+	display:block;
+}
+.media-heading-title,.media-earnings{
+	display:none;
+}
+.media-heading-verified {
+	height: 16px;
+	width: 16px;
+	margin: 0 1px -2px 5px;
+}.subscribe-button-count { margin-left: 0.5rem; font-weight:normal; opacity: 0.85; }.media-icon-share{
+	margin: -5px -1px -5px 4px;
+	fill: #fff;
+}
+.media-engage{
+	margin-left:auto;
+	display: flex;
+	justify-content: flex-end;
+	flex-wrap: wrap;
+	z-index:5;
+	text-transform: uppercase;
+}
+
+.media-engage button {
+	margin: 0.25rem 0 0.25rem 1rem;
+}.rumbles-vote{
+	display:flex;
+	align-items:center;
+	font-size:1rem;
+	color:#666;
+}
+.rumbles-vote-up,.rumbles-vote-down{
+	float:left;
+	display:inline-block;
+	padding:5px 8px;
+	border:1px solid #ddd;
+	background:#fff;
+	line-height:0;
+	border-radius:1rem 0 0 1rem;
+	color:#999;
+}
+.rumbles-vote-up:hover,.rumbles-vote-down:hover{
+	opacity:0.9;
+	background:#eee;
+}
+.rumbles-vote-up.active,.rumbles-vote-down.active{
+	background:#7a4;
+	color:#fff;
+}
+.rumbles-vote-down{
+	border-radius:0 1rem 1rem 0;
+	margin-right:0.7rem;
+	border-left:0;
+}
+.icon-rumbles-up,.icon-rumbles-down{
+	stroke:currentColor;
+	height:100%;
+	width:auto;
+	width:16px;
+	height: 16px;
+}
+.rumbles-unit{
+	display:none;
+}.media-video-action{
+	background:#fff;
+	font-weight:normal;
+	align-items:center;
+	display:inline-flex;
+}
+.media-icon-license, .media-icon-embed{
+	margin:-5px -4px -5px 4px;
+	stroke:#444;
+	stroke-width:1.3px;
+}
+.media-icon-license{
+	margin-left:6px;
+}.video-footer-buttons{
+	justify-content:space-between;
+	display:flex;
+	align-items:center;
+	margin:1rem;
+}.media-description-break{
+	margin:1rem 0;
+	text-align:center;
+	height:90px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}p.media-description{
+	font-size:1.3rem;
+	line-height:2rem;
+	margin:1rem 0;
+	word-wrap: break-word;
+	overflow-wrap: break-word;
+}
+div.media-description{
+	padding-top:0;
+	padding-bottom:0;
+}
+div.media-description-locals-message {
+	display: flex;
+	align-items: center;
+	margin: 1em 0 1em 0;
+	font-size: 1.15rem;
+	line-height: 1.4;
+}
+div.media-description-locals-message.with-separator {
+	padding-bottom: 1rem;
+	border-bottom: 1px solid #e4e4e4
+}
+.media-description :any-link {
+    color: #37c;
+}
+.media-description :any-link:hover {
+    color: #2A62A7;
+}.media-related-break{
+	margin-bottom:1.5rem;
+	height:280px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}.mediaList-link-more {
+	display: flex;
+	justify-content: center;
+	margin: auto 0 -2.2rem;
+	padding-top: 1rem;
+}
+
+.mediaList-link-more a {
+	display: block;
+	border: 1px solid #ccc;
+	text-decoration: none;
+	text-align: center;
+	padding: 0.35rem 1.35rem;
+	border-radius: 10rem;
+	text-transform: lowercase;
+	background: #fff;
+	color: #666;
+}
+
+.mediaList-link-more a:hover {
+	background: #74a642;
+	border-color: #74a642;
+	color: #fff;
+}.singleMedia.content{
+	margin-top: -3.5rem;
+	padding:0;
+	border-top: none;
+}
+.mediaList-info.singleMedia{
+	padding: 1rem 0;
+}.mediaList-item{
+	padding: 1rem 0;
+	border-bottom: 1px solid #e4e4e4;
+}
+.mediaList-link {
+	display: flex;
+	overflow: hidden;
+	align-items: center;
+}
+.mediaList-link:hover{
+	text-decoration:none;
+}
+.mediaList-item.first-item{
+	padding-top: 0;
+}
+.without-show-more-link .mediaList-item.last-item{
+	padding-bottom: 0;
+	border-bottom: none;
+}
+.mediaList-link.size-large,
+.mediaList-link.size-xlarge {
+	flex-direction: column;
+	align-items: flex-start;
+}
+.mediaList-image-div{
+	width: 50%;
+	flex-shrink: 0;
+	margin-right: 10px;
+	position:relative;
+	line-height: 0;
+}
+.mediaList-image-div.size-large,
+.mediaList-image-div.size-xlarge{
+	width: 100%;
+	margin-right: 0;
+}
+.mediaList-image-div.size-small{
+	width:35%;
+}
+.mediaList-image{
+	width:100%;
+}
+.mediaList-heading{
+	font-size: 1rem;
+	font-weight: 600;
+	margin: 0 0 0.5rem;
+	line-height: 1.1rem;
+	max-height: 2.2rem;
+	overflow: hidden;
+}
+.mediaList-heading.size-xlarge {
+	font-weight: normal;
+	font-size: 2rem;
+	line-height: 2.2rem;
+	max-height: 2.2rem;
+	margin-bottom: 1.5rem;
+}
+.mediaList-heading.size-large {
+	margin-top: 7px;
+	font-size: 1.2rem;
+	line-height: 1.5rem;
+	max-height: 1.5rem;
+}
+.mediaList-heading.size-xlarge,
+.mediaList-heading.size-large {
+	white-space: nowrap; display: block; text-overflow: ellipsis;
+}
+.mediaList-heading.size-medium, .mediaList-heading.size-small {
+	max-height: 2.4rem;
+	white-space: normal; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2;
+}
+.mediaList-by{
+	position:relative;
+	display: flex;
+	align-items: center;
+}
+.mediaList-by-image{
+	font-size: 2rem; width: 2rem; height: 2rem;
+	left:0;
+	flex-shrink: 0;
+	margin-right: 7px;
+}
+.mediaList-by-heading{
+	font-weight:normal;
+	margin:0;
+	font-size:0.9rem;
+	color: #666;
+	display: inline;
+}
+.mediaList-rumbles,
+.mediaList-earnings,
+.mediaList-liveCount {
+	display: block;
+	color:#587F33;
+}
+.mediaList-liveCount {
+  color: #e00;
+}
+.mediaList-by.size-small .mediaList-rumbles,
+.mediaList-by.size-small .mediaList-earnings,
+.mediaList-by.size-small .mediaList-liveCount{
+	font-size: 0.8rem;
+}
+.mediaList-by.size-large .mediaList-earnings,
+.mediaList-by.size-xlarge .mediaList-earnings,
+.mediaList-by.size-large .mediaList-liveCount,
+.mediaList-by.size-xlarge .mediaList-liveCount {
+	display: inline;
+}
+.mediaList-timestamp::before,
+.mediaList-plays::before,
+.mediaList-by.size-large .mediaList-earnings::before,
+.mediaList-by.size-xlarge .mediaList-earnings::before,
+.mediaList-by.size-large .mediaList-liveCount::before,
+.mediaList-by.size-xlarge .mediaList-liveCount::before {
+	content: ' • ';
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #666;
+}
+.mediaList-duration,.mediaList-live,.mediaList-upcoming{
+	position:absolute;
+	bottom:7px;
+	right:7px;
+	color:#ddd;
+	background:rgba(0,0,0,0.5);
+	padding:1px 5px;
+	font-size:0.8rem;
+	line-height: initial;
+}
+.mediaList-duration {
+	-webkit-backdrop-filter: blur(4px);
+	backdrop-filter: blur(4px);
+	border-radius: 4px;
+	overflow: hidden; /* no blur outside of radius */
+}
+.mediaList-live{
+	color:#fff;
+	background:#e00;
+	border-radius: 4px;
+}
+.mediaList-upcoming{
+	background: #ec0;
+	color: #000;
+	border-radius: 4px;
+}
+.mediaList-info { width: 100%; box-sizing: border-box; }i.user-image--img--id-b8bad1aa740784472fb61890249bb854 { background-image: url(https://sp.rmbl.ws/z8/9/O/E/b/9OEba.baa.5-RSBN-r75nmq.png); }i.user-image--img--id-a65555da375ef71f9288b001d1d9deb8 { background-image: url(https://sp.rmbl.ws/z8/8/c/3/e/8c3ea.baa.1-TheDiveWithJacksonHinkle-rf4ogf.png); }i.user-image--img--id-9e05a4c8d7d90118daca1dd5be45fc08 { background-image: url(https://sp.rmbl.ws/z8/F/H/9/d/FH9da.baa-Revengeofthecis-qxrb8h.jpeg); }i.user-image--img--id-fa96777532f14bd6caf72b34405cfada { background-image: url(https://sp.rmbl.ws/z8/8/M/z/f/8Mzfa.baa-RekietaLaw-r7j01x.png); }i.user-image--img--id-3ef79b49ca2e4e48767b8e9375f9d4cb { background-image: url(https://sp.rmbl.ws/z8/J/Y/z/d/JYzda.baa-Breitbart-qu70hw.jpeg); }i.user-image--img--id-4b4507de177285757b940ee0a769eafa { background-image: url(https://sp.rmbl.ws/z8/n/O/X/g/nOXga.baa-Spillover-rfr4j6.jpeg); }i.user-image--img--id-799802816256b99d4163da39d5f2c535 { background-image: url(https://sp.rmbl.ws/z8/U/K/d/b/UKdba.baa-Bongino-qgs0w4.jpg); }i.user-image--img--id-0d65a2e181c4b6a5eb0b4b5e6bb05a41 { background-image: url(https://sp.rmbl.ws/z8/t/j/s/b/tjsba.baa.1-Styxhexenhammer666-qyv16v.png); }i.user-image--img--id-5595bfc05d3de10ecace0cd8af06e81b { background-image: url(https://sp.rmbl.ws/z0/f/S/Q/E/fSQEe.asF-18qolh-rh62hz.jpeg); }.header{
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	color:#ddd;
+	background:#fff;
+	height: 4rem;
+	padding:0;
+	z-index:200;
+}
+.header-div{
+	display:flex;
+	color:#fff;
+	height:100%;
+	padding-left: 1.2rem;
+	padding-right: 1.2rem;
+	align-items:center;
+	position:relative;
+}
+.main-menu-toggle{
+	display: flex;
+	align-items: center;
+	height:2.6rem;
+}
+.main-menu-close,.main-menu-open{
+	stroke:#555;
+	stroke-width:2px
+}
+.main-menu-close{
+	display:none;
+	stroke-width:3px
+}
+.pop-show>.main-menu-close{display:inline-block}
+.pop-show>.main-menu-open{display:none}
+.header-logo{
+	width:10rem;
+	margin-left: 1rem;
+	margin-right: 0.2rem;
+	display: flex;
+	flex-shrink:0;
+	align-items: center;
+}
+.header-logo img {
+	width: 100%;
+	height: auto;
+}
+.header-upload{
+	box-sizing: border-box;
+	border-radius:10rem;
+	padding: 0 0.35rem;
+	background: #4C8800;
+	height:2.6rem;
+	width:2.6rem;
+	margin:0 1rem;
+	display: flex;
+	align-items: center;
+}
+.header-upload svg {
+	stroke: #fff;
+	width: 100%;
+}
+.header-upload-menu {
+	display: none;
+	right: 0;
+}
+.header-upload-menu.pop-show {
+	display: block;
+}
+main {
+	display: block;
+	margin-top: 4rem;
+}.header-search{
+	display:flex;
+	margin-left: auto;
+	align-items:center;
+	border-radius:10rem;
+	background:#eee;
+}
+.header-search-select, .header-search-field {
+	border:0;
+	height:100%;
+	background-color:transparent;
+	font-size:1.1rem;
+	color:#000;
+	outline-offset: 3px;
+}
+.header-search-select:not(:focus-visible),
+.header-search-field:not(:focus-visible) {
+	outline: none;
+}
+.header-search-select {
+    text-indent: 0.01px;
+	width: 7rem;
+	flex-shrink: 0;
+	padding: 0 1.5rem 0 1rem;
+}
+.header-search-field{
+	-webkit-appearance: textfield;
+	border-left:1px solid #bbb;
+	width:100%;
+	padding:0 0.7rem;
+}
+.header-search-field::-webkit-search-decoration {
+	-webkit-appearance: none;
+}
+.header-search-field::placeholder{
+	color:#555;
+}
+.header-search-submit{
+	height:2.9rem;
+	width:2.9rem;
+	padding:0.6rem;
+	flex-shrink:0;
+}
+.header-search-select,.header-search-field{display:none}
+.header-search-select.pop-show,.header-search-field.pop-show{
+	display:block;
+}
+.header-search.pop-show{
+	position:absolute;
+	left: 3.5rem;
+	right: 1.5rem;
+	z-index:100;
+}
+.header-search-icon{
+	stroke:#000;
+	fill:#000;
+}svg.user-image--icon { display: inline-block; box-sizing: border-box; border: 1px solid #eee; border-radius: 50%; background:#f3f3f7; stroke:#333; }.header-user-info{display:none;}
+.header-user{
+	text-align:left;
+}
+i.header-user-img, svg.header-user-img {
+	display: block;
+	flex-shrink: 0;
+	font-size: 2.6rem; width: 2.6rem; height: 2.6rem;
+	padding:0.35rem;
+}.navs{
+	position:fixed;
+	top:4rem;
+	width:100%;
+	z-index:10;
+}
+.hover-menu{
+	position:absolute;
+	color:#222;
+	background:#eee;
+	box-shadow:0 0 20px 0 rgba(0,0,0,0.4);
+	width:16rem;
+	padding: 0.5rem 0;
+	font-size:1.15rem;
+	box-sizing: border-box;
+	max-height: calc(100vh - 4rem - (1rem + 4vh));
+	overflow: hidden auto;
+}
+#main-menu{
+	display:none;
+}
+#main-menu.pop-show{
+	display:block;
+	left: 0;
+	width: auto;
+	min-width: 15rem;
+	max-width: 18rem;
+}.main-menu-item{
+	display:block;
+	padding: 0.3rem 1rem 0.5rem;
+	outline-offset: -3px;
+	max-width: 100%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.main-menu-item-important{
+	color:#f99;
+}
+.main-menu-item:hover{
+	opacity:0.7;
+	text-decoration:none;
+}
+.main-menu-heading{
+	font-size:1rem;
+	font-weight:bold;
+	text-transform: uppercase;
+	border-top:1px solid #666;
+	padding: 1.2rem 1rem 0.8rem;
+	margin: 0.9rem 0 0 0;
+	cursor: default;
+}
+:any-link > .main-menu-heading {
+	cursor: pointer;
+}
+.main-menu-icon{
+	width:1.8rem;
+	height:1.8rem;
+	margin:0 0.5rem -0.5rem 0;
+	stroke:#000;
+	stroke-width:2px;
+	stroke-linejoin:round;
+	stroke-linecap:round;
+	fill:none;
+}
+
+.main-menu-item--active {
+	background: #555;
+	color: #eaeaea;
+	cursor: default;
+}
+.main-menu-item--active .main-menu-icon {
+	stroke: currentColor;
+}
+.main-menu-item--active:hover {
+	opacity: 1;
+}
+
+.main-menu-signout {
+	border-top:1px solid #666;
+	padding: .8rem 0 .8rem 2.1rem;
+	margin: 0.2rem 0 0;
+	text-align: center;
+	padding: 0.8rem 0.4rem 0.4rem;
+}.footer{
+	clear: both;
+	background: #111;
+	color:#ddd;
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+}
+.footer-nav{
+	display: flex;
+	flex-wrap: wrap;
+	margin-bottom: 2rem;
+	text-transform: uppercase;
+}
+.footer-nav-link,
+.footer-terms-link {
+	margin-right: 1rem;
+	margin-bottom: 0.5rem;
+	display: block;
+	color:#ddd;
+}
+.footer-nav-link:hover,
+.footer-terms-link:hover {
+	color: #85C742;
+}
+.footer-nav-link:focus-visible,
+.footer-terms-link:focus-visible {
+  text-decoration: underline;
+  outline: none;
+}
+.footer-terms-copyright {
+	align-items: center;
+}
+.footer-terms{
+	display: flex;
+	flex-wrap: wrap;
+}
+.footer-copyright {
+	margin-top: 2rem;
+	margin-bottom: 0;
+	color: #aaa;
+}.news_notification{
+	position:fixed;
+	top:0;
+	width:100%;
+	background: #85C742;
+	z-index:1000;
+	padding: 0.5rem 0;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	color: #061726;
+}
+.news_notification_a{
+	width:100%;
+	box-sizing:border-box;
+	padding:0 2.1rem 0 0.5rem;
+	text-align:center;
+}
+.news_close {
+	cursor: pointer;
+	position: absolute;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	padding: 0 .7rem;
+	display: flex;
+	align-items: center;
+}
+.news_close-x {
+	width: 0.8rem;
+	height: 0.8rem;
+	padding: 0.2rem;
+	background: rgba(255,255,255,0.5);
+	border-radius: 100%;
+	stroke: #333;
+}
+.news_close:hover .news_close-x  {
+	background:rgba(255,255,255,0.75);
+}@media(max-width:699px){.desktop-only{
+	display:none
+}.mediaList-heading.size-xlarge {
+	max-height: 4.4rem;
+	white-space: normal; overflow: hidden; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2;
+}}@media(min-width:460px){.rumbles-unit{
+	display:inline;
+}}@media(min-width:700px){.mobile-only{
+	display:none
+}.h1 {
+	font-size:2.6rem;
+	line-height: 1.25;
+	margin:1rem 0 1.8rem;
+}
+.thirds{
+	display: flex;
+	flex-wrap: wrap;
+}
+.two-thirds, .one-thirds{
+	display: flex;
+	flex-direction: column;
+	width:33.333333333%;
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+.two-thirds{
+	width:66.666666667%;
+}
+.container{
+	border-left:1px solid #e4e4e4;
+	border-right:1px solid #e4e4e4;
+}
+.round-button{
+	padding:0.85rem 1.3rem;
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
+	font-size:1rem;
+}.media-under-title{
+	margin-bottom:2rem;
+}.media-user-image{
+	font-size: 3.4rem; width: 3.4rem; height: 3.4rem;
+}
+.media-by{
+	font-size:1.2rem;
+	height:3.4rem;
+}
+.media-heading-title,.media-heading-info{
+	display:inline-block;
+}
+.media-by-wrap{
+	margin-top:0
+}
+.media-heading-info:before{
+	content:"\00B7";
+	padding:0 8px 0 2px;
+	font-weight:bold;
+	color:#aaa;
+	display:inline-block;
+}
+.media-earnings{
+	color:#7a4;
+	font-weight:bold;
+	clear:left;
+	display:block;
+}.media-engage button {
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
+}.media-video-action{
+	font-size:1.1rem;
+}.video-footer-buttons{
+	margin:1rem 0;
+}.media-related-break{
+	margin-bottom:2rem;
+}.mediaList-list.top-earners {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 100%;
+}.singleMedia.content{
+	margin-top: 0;
+	height: 100%;
+}.header-upload{
+	margin-left: auto;
+	margin-right: 1.2rem;
+}.header-search-select,.header-search-field{display:block}
+.header-search,.header-search.pop-show{
+	position:static;
+	box-sizing: border-box;
+	padding-left: 0.3rem;
+	padding-right: 0.3rem;
+	width: 40%;
+	margin-left: 2.5rem;
+	margin-right: 2.5rem;
+}.header-user{
+	width:9rem;
+	display: flex;
+	align-items: center;
+}
+.header-user-name,.header-user-stat{
+	display:block;
+	color:#555;
+}
+.header-user-name{
+	color:#000;
+	padding:0.1rem 0 0.1rem;
+}
+.header-user-info{
+	display:inline-block;
+	margin-left:0.5rem;
+}.footer {
+	padding-top: 2rem;
+	padding-bottom: 4rem;
+}
+.footer-nav-link{
+	margin-right: 3rem;
+	margin-bottom: 0;
+}
+.footer-terms-link {
+	margin-right: 0;
+	margin-bottom: 0;
+}
+.footer-terms-copyright {
+	display: flex;
+}
+.footer-terms{
+	order: 2;
+}
+.footer-terms-link.divider::after{
+	content: ' | ';
+	display:inline-block;
+	color: #666;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.footer-copyright {
+	margin-top: 0;
+	margin-right: 3rem;
+}}@media(min-width:900px){.media-content,.media-sidebar{
+	float:left;
+	margin:0;
+}
+.media-content{
+	width:calc(100% - 350px);
+	padding-right:14px;
+}
+.media-sidebar{
+	width:336px;
+}}@media(min-width:1200px){.constrained{
+	max-width:1200px;
+	width:100%;
+	margin:0 auto;
+}.singleMedia .mediaList-image {
+	height: 28rem;
+	object-fit: cover;
+}}</style><script>var $$={};var addThemeSwitcher;!function(){var c,r,s="system",i="light",h="dark",l=[h],d=[s,i,h],o=matchMedia("(prefers-color-scheme: dark)"),a=!1,m=!0,n=[];function u(){try{if(!a&&localStorage)return localStorage.getItem("themePreference")}catch(e){a=!0}}function f(){var e,t,a,n;c=c||u()||s,e=c==s?o.matches?h:i:0<=d.indexOf(c)?c:i,r!==e&&r!==(e=e)&&(r=e,l.indexOf(e)<0?(a=document.querySelectorAll("head .js-theme-ss"),Array.prototype.forEach.call(a,function(e){e.disabled=!0})):(t=!1,a="/c/themes/"+e+".css",n="js-theme-ss js-theme-ss--"+e,e=document.querySelectorAll("head .js-theme-ss--"+e),Array.prototype.forEach.call(e,function(e){e.disabled=!1,e.dataset.themeMainStylesheet&&(t=!0)}),t||(m?document.write('<link rel=stylesheet data-theme-main-stylesheet="1" class="'+n+'" href="'+a+'" />'):((e=document.createElement("link")).rel="stylesheet",e.href=a,e.className=n,e.dataset.themeMainStylesheet="1",document.head.appendChild(e)))))}function y(){$$.each(n,function(){var e=this.getAttribute("data-theme")==c;$$[(e?"add":"remove")+"Class"](this,"main-menu-item--active")})}function $(e,t){(t=e.getAttribute("data-theme"))&&n.indexOf(e)<0&&(n.push(e),$$.addClick(e,function(e){return e.preventDefault(),e=t,a||localStorage.setItem("themePreference",e),c!=e&&(c=e,f(),y()),$$.query(".main-menu-toggle")[0].click(),!1}))}addThemeSwitcher=function(e,t){$$.each($$.query(e),function(){$(this)}),y(),t&&$$.each($$.query(t),function(){this.style.display="block"})},c=u()||s,f(),m=!1,o.addEventListener&&o.addEventListener("change",function(e){f()})}();
+
+!function(s,d){function a(){return(new Date).getTime()/1e3}var t,r,o,n,i,c,l,e="Rumble",h={F:0};(d=s[e]=s[e]||function(){d._.push(arguments)})._=d._||[],h.f={},h.b={};if(!h.k){function f(o,e){return o.opts||(o.opts=[]),h.D(e,function(e,t){var r=o[t];switch(t){case"opts":o[t]=r.concat(e);break;case"ad_sys":o[t]=r?h.M(r,e):e;break;default:o[t]=e}}),o}function g(c,s,l){function u(){var e=c.v.src||c.v.currentSrc;return e=e.match(/blob:/)&&c.hls_js?c.hls_js.url||e:e}function f(){var e=u(),t=s.get();return c.current_video=s,t==e?0:t}var g;s.get=function(){return function(e,t){if(21192597==e.vid.vid)return t;var r,o=h.B(t),t=h.E(t);return e.vid.live||(r=0,e.vid.a&&(r=e.vid.a.u||0),o.u=r,o.b=0<e.bandwidth_track?1:0),t+"?"+h.C(o)}(c,s.url)};s.check=function(){return!f()},s.play=function(){l&&c.hls_js&&!g&&c.hls_js.startLoad(),g=!0},s.set=function(){if(l&&!h.I())return setTimeout(function(){s.set()},100),!1;var e,r,t,o,n,i=f(),d=0,a=0;i&&(g=!1,e=c.v,c.res=s.key,0<y&&(c.last_set_url==u()?(d=!e.paused,a=e.currentTime):0<c.video_time&&(a=c.video_time)),a&&!c.vid.live&&(c.ui.s.autoSeek=a),a=e,t=i,o=l,(r=c).hls_js&&r.hls_media_attached&&((n=r.hls_js).detachMedia(a),n.destroy(),r.hls_js=null),o?(n=r.hls_js=new Hls({capLevelToPlayerSize:!0,autoStartLoad:!1,manifestLoadingMaxRetry:6,levelLoadingMaxRetry:6}),r.j("hlsJsLoaded",n),n.on(Hls.Events.LEVEL_UPDATED,function(e,t){r.live=p.vid.live&&t.details.live}),n.loadSource(t),n.attachMedia(a),r.hls_media_attached=1):a.src=t,y++,c.last_set_url=i,e.load(),d&&(s.play(),e.play()))}}function b(e){return H.hasOwnProperty(e)?H[e]:e}function v(r,e,o){var n,t;if(!r.style&&r.length)for(t=0;t<r.length;t++)v(r[t],e,o);else h.D(e,function(e,t){n=b(t),o&&""!==r.style[n]||(r.style[n]=b(e))})}function m(){var e=E;E={},P=0,h.D(e,function(e){"function"==typeof e&&e()})}function _(e){var i,o={play:"#fff",scrubber:"#75a642",hover:"#fff",background:"#303030",hoverBackground:"#699c39"},d=this,n=-1,c=(h.D(e,function(e,t){d[t]=e}),d.hasima=1,d.hasInit=0,d.rpcl=(d.id?d.id+"-":"")+"Rumble-cls",d.rpcls="."+d.rpcl,d.bandwidth_track=0,{}),a=(d.addEvent=function(e,t,r){c[r=r||1]||(c[r]={}),c[r][e]||(c[r][e]=[]),c[r][e].indexOf(t)<0&&c[r][e].push(t);r="addEvent";e!=r&&d.j(r,e)},d.removeEvent=function(e,t,r){c[r=r||1][e]&&(r&&!t?c[r][e]=[]:(t=c[r][e].indexOf(t),c[r][e].splice(t,1)))},d.hasEventListener=function(r){return h.D(c,function(e,t){if(e[r]&&0<e[r].length)return!0})},d.j=function(r,o,n){var i,d,a=[];return h.D(c,function(e,t){if(e[r]&&(n&&n==t||!n))for(d=e[r],i=0;i<d.length;i++)"function"==typeof o&&(o=o()),a.push(d[i](o))}),a},d.triggerError=function(e,t){d.j("error",{code:e,message:t})},d.l1=function(e,t,r){},d.getSetting=function(e,t){var r=!1;return d.vid&&d.vid.player&&d.vid.player[e]&&(e=d.vid.player[e],t&&e[t]&&(r=e[t]),t||(r=e)),r=!r&&o[t]?o[t]:r},d.loadVideoStyles=function(e){var t,r,o,n="vid_"+d.vid.id;d.rpcls;d.p.id=n,d.vars.opts.title&&d.vid.title&&(i.innerHTML=d.vid.title,i.href=h.L(d.vid.l,"rumble.com"),h.w(i,{outline:0,display:"block",18:"linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,0))",textShadow:"rgba(0,0,0,0.5) 0px 0px 2px",padding:"9px",fontSize:"18px",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",position:"absolute",top:0,left:0,right:0}),h.x(i,{textDecoration:"underline"},{textDecoration:"none"})),d.bp&&(n=d.getSetting("colors","play"),t=d.getSetting("colors","hover"),r=d.getSetting("colors","background"),o=d.getSetting("colors","hoverBackground"),h.x(d.bp,{color:t,background:o,borderColor:o},{color:n,background:r,borderColor:r},d.bp_svg),d.bp.style.opacity=1)},d.trackBandwidth=function(e){var t=d.bandwidth_track;(e=d.server.bw_tracking?e:0)!=t&&(d.bandwidth_track=e,d.current_video&&!d.m&&d.current_video.set())},d.loadVideo=function(e,t){var r,o=(e="object"!=typeof e?{id:e}:e).id;if(h.b[o]&&(d.vars.playlist||(d.vars.playlist=h.b[o]),o=h.b[o][0]),d.hasInit||(d.hasInit=1,h.c(["ui","custom_ui"],function(){for(var e=0;e<h.d.length;e++)h.d[e](d.id)})),!t)return h.e(o,function(){d.loadVideo(e,1)},{ad_count:d.ad_count||null});if(h.f[o].loaded<9){if(d.triggerError("load","Unable to load video "+o),t)throw"Unable to load video "+o;return 2}if(h.f[o].cfg=e,h.f[o].plays=0,(r=h.f[o]).restrict&&!a(r.restrict)&&(d.triggerError("restricted","Video is restricted"),h.f[o].restricted=!0,d.j("restricted",o),h.f[o].ua=0),r.id=o,d.vid=r,d.live=2==d.vid.live,d.video_list=0,d.current_video=0,n<0&&(n=(d.vars.opts.noads||d.server.bw_ourads_check&&d.vars.opts.norumbleads)&&r.a?1:0),d.trackBandwidth(r&&r.track||n?1:0),!r.restricted&&r.ua&&(d.video_list=h.G(d,r.ua),h.H(d),d.loadVideoStyles()),h.g(d),d.j("loadVideo",r),h.h(d,1),r.restricted&&t)throw"Video "+o+" is restricted"},function(e){var t,r,o,n,i=document,d=!1;if(!e||e[0]<=-3)return!0;r=e[0],o=e[1];try{t=parent!==s?i.referrer||parent.location.href:i.location.href}catch(e){}if(!t)return parent===s;if(t=t.match(/^https?\:\/\/([^\/?#]+)(?:[\/?#]|$)/i))for(t=t[1].split(".");2<=t.length&&!d;)n=t.join("."),-1<o.indexOf(n)&&(d=!0),t.shift();return r!=d}),e=d.rpcl,t="metadata";(d.vars.opts.minimal||d.vars.opts.nopreload)&&(t="none"),d.vars.quality&&(d.res=parseInt(d.vars.quality)),e=h.i('<div class="'+e+'" allowfullscreen tabindex="-1" style="outline: none;"><video muted playsinline hidefocus="hidefocus" style="width:100% !important;height:100% !important;display:block" preload="'+t+'"'+(d.vars.opts.cc?' crossorigin="anonymous"':"")+'></video><div style="display:flex;opacity:0" class="bigPlayUI ctp"><a style="display:none" target=_blank rel=noopener></a><div class="bigPlayUIInner ctp" style="display:none"></div></div></div>'),h.w(e,{2:4,9:17,10:17,18:16,color:15,clear:"both",overflow:"visible"}),h.j.c(e,"bplay","block",".bigPlayUIInner"),d.d.appendChild(d.p=e),d.v=e.firstChild,function(e){if(!h.A){var t,r="canPlayType",o='video/mp4; codecs="avc1.42E01E',n=[0,o+'"',0,o+', mp4a.40.2"',1,'video/webm; codecs="vp9, vorbis"',2,"application/vnd.apple.mpegurl"],i=[!1,!1,!1];if(!e||!e[r])return;for(t=0;t<n.length;t+=2)e[r](n[t+1])&&(i[n[t]]=!0);h.J=i[2],h.A=i}}(d.v),d.rsz=[0,0],d.bp=e.childNodes[1],d.bp_svg=d.bp.childNodes[1],d.hasStyle={},i=d.bp.childNodes[0],h.w(d.bp_svg,{fill:"currentColor",9:8,12:"14px 22px",cursor:"pointer",borderRadius:"8px"}),h.w(d.bp,{display:"flex",opacity:0,position:"absolute",top:0,left:0,width:"100%",height:"100%",cursor:"pointer",alignItems:"center",justifyContent:"center",overflow:"hidden"}),d.v.addEventListener("contextmenu",function(e){return e.preventDefault(),!1}),d.loadVideoStyles()}var S,y,P,w="https://rumble.com",e="/embedJS/u3",x=(h.l=a(),s.RumbleErrorHandler||(l=0,s.RumbleErrorHandler=function(e){var t,r=e.message,o=e.filename,n=e.lineno,i=e.colno,d=B(o);o==d||r.match(/^Script error\./)||3<++l||(o=document.location+"",r=[B(o),l,r,d,n,i],e.error&&e.error.stack&&r.push(e.error.stack.split("\n").slice(1,3).join("\n")),d="/l/jserr?err="+encodeURIComponent(JSON.stringify(r)),o==r[0]&&(d=w+d),(t=document.createElement("img")).src=d,t.width=t.height=1,t.onload=t.onerror=function(){t.onload=null,t.onerror=null})},s.addEventListener("error",s.RumbleErrorHandler)),[]),C=(h.E=function(e){return e.split("?")[0]},h.B=function(e){var e=e.split("?"),r={};return e&&e[1]&&(e=e[1],new URLSearchParams(e).forEach(function(e,t){r[t]=e})),r},h.C=function(e){var r="";return h.D(e,function(e,t){r+=(r?"&":"")+encodeURIComponent(t)+"="+encodeURIComponent(e)}),r},h.D=function(e,t){var r,o;for(o in e)if(e.hasOwnProperty(o)&&void 0!==(r=t(e[o],o)))return r},h.K=function(e,t){if("undefined"==typeof localStorageBlocked)try{localStorageBlocked="undefined"==typeof localStorage||!localStorage}catch(e){localStorageBlocked=!0}if(void 0===t){if(!localStorageBlocked)try{t=localStorage.getItem(e)}catch(e){localStorageBlocked=!0}return localStorageBlocked?x[e]:parseInt(t)==t?parseInt(t):t}if(x[e]=t,localStorageBlocked)return!1;try{return localStorage.setItem(e,t)}catch(e){localStorageBlocked=!1}return!1},h.L=function(e,t,r,o){if(e)if(!e.match(/^(http[s]?:)?\/\/([^/]*)\//)||r)return(o?"https:":"")+"//"+t+("/"!=e[0]?"/":"")+e;return e},h.M=function(e,t){return e.filter(function(e){return-1!==t.indexOf(e)})},[2,0,1]),k=["mp4","webm","hls"],H=(h.G=function(r,e){for(var t,o,n,i={},d=y=0;d<C.length;d++)e[t=k[o=C[d]]]&&(h.A[o]||"hls"==t)&&(n="hls"==t&&(!h.A[o]||navigator.userAgent.match(/Android.+Firefox/)),h.D(e[t],function(e,t){i.hasOwnProperty(t)||(e.key=t,i[t]=e,g(r,i[t],n))}));return i},h.I=function(){return"undefined"!=typeof Hls||(h.q(["hls"]),!1)},h.H=function(e){var r,o,n,i=480;e.res&&(i=e.res),e.vid.live&&!h.J&&h.I(),h.D(e.video_list,function(e,t){n=parseInt(t),"hls"!=r&&("hls"==t&&h.J||0<n&&n<=i&&(!r||r<n)?r=t:(!o||n<o&&0<n)&&(o=t))}),(r=r||o)&&e.video_list[r].set()},h.r=function(){var d={},a={},c={b:function(e,t,r){if("object"!=typeof e){if(d[e]&&!r)return!1;if(d[e]=t=t||1,a[e])for(;o=a[e].pop();)o(e,t);return!0}for(var o in e)c.b(o,e[o],r)},a:function(e,t,r){var o,n,i;for(r=r||{},o=0;i=e[o];o++)d[i]?r[i]=d[i]:(n&&(t=function(t,r){return function(e){c.a([t],r,e)}}(n[0],n[1])),n=[i,t]);n?(a[n[0]]||(a[n[0]]=[]),a[n[0]].push(function(e,t){r[e]=t,n[1](r)})):t(r)}};return c},n=h.r(),i=document,c={},h.s=function(e,t){var r,o,n=0;c[e]||(c[e]=1,(r=i.createElement("script")).type="text/javascript",r.src=e,t&&(r.addEventListener("load",o=function(e){if(n||t())return n=1;e&&setTimeout(o,50)},!1),o(1)),i.head.appendChild(r))},h.q=function(e,t){for(var r,o=0;o<e.length;o++)if("ima3"==e[o])h.s("https://imasdk.googleapis.com/js/sdkloader/ima3.js",function(){return!("undefined"==typeof google||!google||!google.ima)&&(n.b("ima3"),!0)});else if("custom_ui"!=e[o]){r=e[o];h.s(d.s.rd+"/j/p/"+r+("hls"!=r?".r2":"")+".js?_v=325",t)}},h.c=function(e,t,r){n.a(e,t),r||h.q(e)},d.rl=function(e,t){n.b(e)&&t&&t(h)},[0,1,"position","absolute","relative","fixed","normal","none","auto","width","height","margin","padding","border","display","#FFF","#000","100%","background","opacity"]),G=(h.w=v,h.y=function(e){var r={};return h.D(e,function(e,t){r[b(t)]=b(e)}),r},h.t=function(e,t,r,o,n,i,d,a){o||(o=e,n=t);var c="0",s="0";return a&&a.viewbox_top&&(c=a.viewbox_top),a&&a.viewbox_left&&(s=a.viewbox_left),i=i?" RumbleSVG-"+i:"",d=d||"",0<r.indexOf("stroke")&&(d+="stroke:currentColor;"),[e,t,'<svg style="'+d+'" class="RumbleElm'+i+'" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="'+e+'px" height="'+t+'px" viewBox="'+s+" "+c+" "+o+" "+n+'">'+r+"</svg>"]},h.j=h.r(),h.j.c=function(t,r,o,n){h.j.a([r],function(e){n&&(t=t.querySelectorAll(n)[0]),h.z(t,e[r][2]),o&&("string"==typeof o?t.style.display=o:o.apply(t))})},'<path stroke-width="3" stroke-linejoin="round" d="M19 11L3.2 1.5v19z"/>'),O=(h.j.b({bplay:h.t(25,25,G,22,22,"bplay"),play:h.t(22,22,G,0,0,"play","height:100%;"),loader:h.t(80,10,function(){for(var e,t="<g>",r=0;r<21;r++)t+='<circle cx="'+(10*r+5)+'" cy="5" r="'+(e=(e=r-6)<1||5<e?1:e)+'" />';return t+"</g>"}(),80,10)}),s.requestAnimationFrame?1:0),E={},N=(h.a=function(e,t){if(!E[e]&&"function"==typeof t&&(E[e]=t,!P)){if(P=1,!O)return setTimeout(m,1e3/24);s.requestAnimationFrame(m)}},h.i=function(e){e=h.u("div",0,0,e);return 1<e.childNodes.length?e.childNodes:e.firstChild},h.u=function(e,t,r,o){e=document.createElement(e);return o&&(e.innerHTML=o),t&&(e.className=t),r&&(e.id=r),j(e),e},h.z=function(e,t){e.innerHTML=t,z(e)},h.y({font:"12px sans-serif",fontWeight:6,lineHeight:6,boxSizing:"content-box",webkitBoxSizing:"content-box",19:1,18:7,11:0,12:0,border:7,9:8,10:8,visibility:"visible",textSizeAdjust:8,textDecoration:7})),j=function(e){var t;(t=e.tagName)&&"path"!=(t=t.toLowerCase())&&"video"!=t&&(v(e,N,!0),"svg"==t?v(e,{fill:"currentColor"},!0):(v(e,{color:"inherit"},!0),z(e)))},z=function(e){var t,r;if(t=e.childNodes)for(r=0;r<t.length;r++)j(t[r])};h.x=function(e,t,r,o){var n="__playerHover";(o=o||e)[n]||(e.addEventListener("mouseout",function(){v(o,o[n][0])}),e.addEventListener("mouseover",function(){v(o,o[n][1])})),o[n]=[r,t],v(o,r)};h.d=[];d.s={rd:w,ru:e,ds:[],rp:w+e+"/?request=",server:{"bw_tracking":1,"bw_noads_check":1}};h.k={},d.gdpr=2,h.m=function(e,t,r,o){var n=new XMLHttpRequest;n.onreadystatechange=function(){4==n.readyState&&200==n.status&&t(JSON.parse(n.responseText))},n.open("GET",(o?"":d.s.rp)+e),n.send()},h.e=function(e,t,r){var o,n,i,d=[];for("object"!=typeof e&&(e=[e]),o=0;o<e.length;o++)n=e[o],(!h.f[n]||1<h.f[n].loaded&&h.f[n].loaded+(1==e.length?900:1800)<a())&&(h.f[n]={loaded:0,wait:[]}),0==(i=h.f[n]).loaded&&(d.push(n),i.loaded=1),t&&i.loaded<9&&i.wait.push(t);return 0<d.length?(r=r?"&ext="+encodeURIComponent(JSON.stringify(r)):"",r+="&ad_wt="+(h.K("ad_wt")||0),h.m("video&ver=2&v="+d[0]+r,function(e){var t,r,o=[],n={};for(e.loaded||!e?n[d[0]]=e:n=e,h.D(n,function(e,t){for(;r=h.f[t].wait.pop();)o.indexOf(r)<0&&o.push(r);e&&(h.f[t]=e,h.f[t].loaded=a())}),t=0;t<o.length;t++)o[t]()}),1):(t&&t(),0)},d.resize=function(){h.D(h.k,function(e){h.h(e)})},h.h=function(e,t){var r,o=!e.rsz,n=[e.p.clientWidth,e.p.clientHeight],i=s.innerHeight,d=e.vars;d.resize||(d.resize=function(){try{return s.self!==s.top}catch(e){return!0}}()?"full":"auto");(!o&&(e.rsz[0]!=n[0]||e.rsz[1]!=n[1])||n[1]>i||t)&&(t=d.resize,d.ia&&(t="ia"),e.ui&&e.ui.isFloating&&(t="auto"),r=Math.floor(n[0]/16*9),"ia"==t?screen&&screen.height<r&&(r=screen.height):"full"==t?r=0:"window"==t?r=i:("ctpauto"==t&&e.ui&&e.ui.ctp&&(d.resize="auto"),(i<r||e.ui&&e.ui.getFullScreen())&&(r=0)),"window"!=t&&"ctpauto"!=t&&"auto16:9"!=t&&"full"!=t&&(e.vid&&e.vid.a&&e.vid.a.aden&&e.vid.a.aden[2])&&r<360&&0!=r&&!d.float&&(r=360),e.rsz[0]!=n[0]&&(o=1),n[1]!=r&&(o=1,e.p.style.height=0<r?(n[1]=r)+"px":"100%")),e.rsz&&!o||(e.rsz=n),o&&(h.g(e),e.j("resize"))},h.g=function(e){if(!(!e.vid||e.ui&&e.ui.hasPlayed)){var t,r,o,n=e.vid.i,i=e.vid.t,d=-1,a=e.rsz[0],c=e.rsz[1],s=a/c;if(i)for(t=0;t<i.length;t++)o=s<(o=(r=i[t]).w/r.h)?(c-a/o)*a:(a-c*o)*c,(d<0||o<d)&&(d=o,n=r.i);e.v.poster!=n&&(e.v.poster=n)}},d.$play=function(e,t){var r,o,n=JSON.parse(JSON.stringify(d.s.ds)),i={};if((n=f(n,e)).opts&&(h.D(n.opts,function(e){i[e]=1}),n.opts=i),void 0===n.gdpr?n.gdpr=2:n.gdpr=n.gdpr?1:0,2!=n.gdpr&&(d.gdpr=n.gdpr),h.n=-1==n.analytics||n.opts.minimal?1:0,h.o=n.opts.skip_ga_load?1:0,h.p=n.opts.force_ga_load?1:0,!n.div){if(!S)throw"No div was defined for the player";n.div=S}if(S=o=n.div,!h.k[o]||(r=h.k[o]).d.parentNode||(r=0),n.macros||(n.macros={}),!r){if(!(r=document.getElementById(o))){if(2<t)throw o+" div not found";s.addEventListener("DOMContentLoaded",function(){d.$play(e,3)})}h.k[o]||h.F++,h.k[o]=r=new _({d:r,vid:0,id:o,vars:n,server:d.s.server})}r.loadVideo(n.video),h.h(r)};d.rl("custom_ui");d.$playSettings=function(e){d.s.ds=f(d.s.ds,e)},s.addEventListener("resize",function(){h.a("resize",d.resize)}),s.addEventListener("orientationchange",function(){setTimeout(function(){d.resize()},500)});var L,I,R,D=s.Rumble;for(D._=L=D._||[],L.push=function(e){var t=L.slice.call(e),r=D["$"+t.shift()];"function"==typeof r?r.apply(D,t):t.push.call(L,e)},I=-1,R=L.length;++I<R;)L.push(L.shift())}function B(e){if(!e)return e;var t=e.match(new RegExp("http[s]?://[^/]*rumble.com(/.*)$"));return t?t[1]:e}}(window);
+
+</script><script type=application/ld+json>[{"@context":"http://schema.org","@type":"VideoObject","name":"ANDREWS SUPERCAR COLLECTION 🔥","playerType":"HTML5","description":"💰THE SECRETS TO MAKING MONEY ONLINE💰 https://www.cobratate.com/hustlers-university-2-0 ⭐ JOIN THE WAR ROOM NETWORK ⭐ https://www.cobratate.com/war-room ⚠️ OFFICIAL TATE MERCH ⚠️ https://shop.topg.com/","thumbnailUrl":"https://sp.rmbl.ws/s8/1/0/Z/e/r/0Zerf.qR4e-small-ANDREWS-SUPERCAR-COLLECTION.jpg","uploadDate":"2022-08-12T18:00:21+00:00","duration":"PT00H03M36S","embedUrl":"https://rumble.com/embed/v1dzqto/","url":"https://rumble.com/v1glwqc-andrews-supercar-collection-.html","interactionStatistic":{"@type":"InteractionCounter","interactionType":{"@type":"http://schema.org/WatchAction"},"userInteractionCount":16625},"width":1920,"height":1080,"videoQuality":"Full HD"},{"@context":"http://schema.org","@type":"WebSite","url":"https://rumble.com/","potentialAction":{"@type":"SearchAction","target":"https://rumble.com/search/video?q={search}","query-input":"required name=search"}},{"@context":"http://schema.org","@type":"Organization","name":"Rumble","url":"https://rumble.com/","logo":"https://rumble.com/i/rumble_logo_back.png","sameAs":["https://www.facebook.com/rumblevideo/","https://twitter.com/rumblevideo"]}]</script><meta name=description content="💰THE SECRETS TO MAKING MONEY ONLINE💰 https://www.cobratate.com/hustlers-university-2-0 ⭐ JOIN THE WAR ROOM NETWORK ⭐ https://www.cobratate.com/war-room ⚠️ OFFICIAL TATE MERCH ⚠️ https://shop.topg.com/"><meta property=og:site_name content=Rumble><meta property=og:type content=video.other><meta property=og:title content="ANDREWS SUPERCAR COLLECTION 🔥"><meta property=og:url content=https://rumble.com/v1glwqc-andrews-supercar-collection-.html><meta property=og:description content="💰THE SECRETS TO MAKING MONEY ONLINE💰 https://www.cobratate.com/hustlers-university-2-0 ⭐ JOIN THE WAR ROOM NETWORK ⭐ https://www.cobratate.com/war-room ⚠️ OFFICIAL TATE MERCH ⚠️ https://shop.topg.com/"><meta property=og:image content=https://sp.rmbl.ws/s8/1/0/Z/e/r/0Zerf.qR4e-small-ANDREWS-SUPERCAR-COLLECTION.jpg><meta name=twitter:card content=summary_large_image><meta name=twitter:image content=https://sp.rmbl.ws/s8/1/0/Z/e/r/0Zerf.qR4e-small-ANDREWS-SUPERCAR-COLLECTION.jpg><meta name=twitter:title content="ANDREWS SUPERCAR COLLECTION 🔥"><meta name=twitter:description content="💰THE SECRETS TO MAKING MONEY ONLINE💰 https://www.cobratate.com/hustlers-university-2-0 ⭐ JOIN THE WAR ROOM NETWORK ⭐ https://www.cobratate.com/war-room ⚠️ OFFICIAL TATE MERCH ⚠️ https://shop.topg.com/"><meta name=robots content=noindex><meta property=fb:app_id content=155223717937973><meta name=twitter:site content=@rumblevideo><meta name=apple-itunes-app content="app-id=1518427877"><link rel="shortcut icon" href=/i/favicon-v4.png><link rel=apple-touch-icon href=/apple-touch-icon.png><link rel="manifest" href="/manifest.json"></head>		<body>
+				<main>
+			<div class="constrained">
+				<article><div id="theatreVideoPlayer"></div><h1 class="h1">ANDREWS SUPERCAR COLLECTION 🔥</h1><div class="media-under-title">		<div class="media-by">
+			<div class="media-by-wrap">
+				<a class="media-by--a" href="/c/TateSpeech" rel=author>
+					<i class='user-image user-image--img user-image--img--id-a028060d28a65a542d26cee2d12a9a63 media-user-image'></i>					<span class="media-heading-name">TateSpeech<svg class="verification-badge-icon media-heading-verified" width=24 height=24 viewBox="0 0 24 24"><circle cx="12" cy="12" r="12" /><path fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" d="M5.4 11.1l5 5 8.2-8.2"/></svg></span>
+				</a>
+				<span class="media-heading-info media-heading-published"><span class="media-heading-title">Published </span> August 12, 2022</span>
+									<span class="media-heading-info">16,625 Views</span>
+											</div>
+		</div>
+				<div class="media-engage">
+					<button data-title=TateSpeech data-slug="TateSpeech" data-type="channel" data-action="subscribe" class="round-button media-subscribe bg-green">
+			<span class="subscribe-button-label">Subscribe</span>
+			<span class="subscribe-button-count"> 238K</span>		</button>
+								<button class="round-button media-engage-share desktop-only bg-blue">Share<svg class=media-icon-share width=18 height=18 viewBox="0 0 24 24"><path d="M18.7 16c-1 0-2 .5-2.7 1.2l-5-3.1c0-.4.1-.7.1-1.1 0-.4-.1-.7-.2-1.1l5-3.1c.8.7 1.7 1.2 2.8 1.2 2.1 0 3.8-1.8 3.8-4s-1.7-4-3.8-4c-2.1 0-3.8 1.8-3.8 4 0 .4.1.7.2 1.1L10 10.2C9.3 9.5 8.3 9 7.3 9c-2.1 0-3.8 1.8-3.8 4s1.7 4 3.8 4c1 0 2-.5 2.7-1.2l5 3.1c0 .4-.1.7-.1 1.1 0 2.2 1.7 4 3.8 4 2.1 0 3.8-1.8 3.8-4s-1.7-4-3.8-4zm0-12c1 0 1.9.9 1.9 2s-.9 2-1.9 2c-1 0-1.9-.9-1.9-2s.9-2 1.9-2zM7.3 15c-1 0-1.9-.9-1.9-2s.9-2 1.9-2c1 0 1.9.9 1.9 2s-.9 2-1.9 2zm11.4 7c-1 0-1.9-.9-1.9-2 0-.4.1-.7.3-1 .3-.6 1-1 1.6-1 1 0 1.9.9 1.9 2s-.9 2-1.9 2z" /></svg></button>
+		</div>
+		</div>		<div class="media-content">
+			<div class="video-player" id="videoPlayer" style="z-index:0;position:relative"></div><div class="video-footer-buttons">		<div class="rumbles-vote" data-type="1" data-id="83968908">
+			<button data-vote="1" class="rumbles-vote-up" aria-label="Rumbles up vote"><svg class=icon-rumbles-up width=16 height=16><path stroke-width="3" d="M1.5 8l13 0m-6.5-6.5l0 13" /></svg></button>
+			<button data-vote="-1" class="rumbles-vote-down" aria-label="Rumbles down vote"><svg class=icon-rumbles-down width=16 height=16 viewBox="0 0 16 16"><path stroke-width="3" d="M1.5 8l13 0" /></svg></button>
+			<span class="rumbles-count">4135</span>&nbsp;<span class="rumbles-unit">rumbles</span>
+		</div>
+				<div style="display: flex">
+					<button class="round-button media-video-action media-video-action-embed">Embed<svg class=media-icon-embed width=20 height=20 viewBox="0 0 20 20"><path fill="none" d="M16.2 7h-2c-6 0-10.9 4.6-10.9 10.3m9.1-6.3l4-4-4-3.9"/></svg></button>
+								<button class="round-button media-engage-share mobile-only bg-blue">Share<svg class=media-icon-share width=18 height=18 viewBox="0 0 24 24"><path d="M18.7 16c-1 0-2 .5-2.7 1.2l-5-3.1c0-.4.1-.7.1-1.1 0-.4-.1-.7-.2-1.1l5-3.1c.8.7 1.7 1.2 2.8 1.2 2.1 0 3.8-1.8 3.8-4s-1.7-4-3.8-4c-2.1 0-3.8 1.8-3.8 4 0 .4.1.7.2 1.1L10 10.2C9.3 9.5 8.3 9 7.3 9c-2.1 0-3.8 1.8-3.8 4s1.7 4 3.8 4c1 0 2-.5 2.7-1.2l5 3.1c0 .4-.1.7-.1 1.1 0 2.2 1.7 4 3.8 4 2.1 0 3.8-1.8 3.8-4s-1.7-4-3.8-4zm0-12c1 0 1.9.9 1.9 2s-.9 2-1.9 2c-1 0-1.9-.9-1.9-2s.9-2 1.9-2zM7.3 15c-1 0-1.9-.9-1.9-2s.9-2 1.9-2c1 0 1.9.9 1.9 2s-.9 2-1.9 2zm11.4 7c-1 0-1.9-.9-1.9-2 0-.4.1-.7.3-1 .3-.6 1-1 1.6-1 1 0 1.9.9 1.9 2s-.9 2-1.9 2z" /></svg></button>
+					</div>
+		</div><div class="media-description-break a-break" data-section="description"></div>
+<div class="container content media-description"><p class="media-description">💰THE SECRETS TO MAKING MONEY ONLINE💰<br><a href="https://www.cobratate.com/hustlers-university-2-0" rel="nofollow noopener" target=_blank>https://www.cobratate.com/hustlers-university-2-0</a></p>
+<p class="media-description">⭐ JOIN THE WAR ROOM NETWORK ⭐<br><a href="https://www.cobratate.com/war-room" rel="nofollow noopener" target=_blank>https://www.cobratate.com/war-room</a></p>
+<p class="media-description">⚠️ OFFICIAL TATE MERCH ⚠️<br><a href="https://shop.topg.com/" rel="nofollow noopener" target=_blank>https://shop.topg.com/</a></p>
+<p class="media-description">Follow:<br><a href="https://www.instagram.com/cobratate" rel="nofollow noopener" target=_blank>https://www.instagram.com/cobratate</a><br><a href="https://www.instagram.com/cobra_tate" rel="nofollow noopener" target=_blank>https://www.instagram.com/cobra_tate</a><br><a href="https://www.instagram.com/talismantate" rel="nofollow noopener" target=_blank>https://www.instagram.com/talismantate</a><br><a href="https://twitter.com/reachmorpheus" rel="nofollow noopener" target=_blank>https://twitter.com/reachmorpheus</a></p>
+<p class="media-description">Subscribe to my newsletter:<br><a href="https://www.cobratate.com/newsletter" rel="nofollow noopener" target=_blank>https://www.cobratate.com/newsletter</a></p>
+<p class="media-description">LIKE AND SUBSCRIBE 💪🏽</p>
+</div>		<section id="video-comments">
+			<div id="video-comments-loading">Loading 39 comments...
+				<div class="loading-spinner"></div>
+			</div>
+		</section>
+				</div>
+		<aside class="media-sidebar">
+			<div class="media-related-break a-break" data-section="related"></div><ul class="mediaList-list container content related without-show-more-link"><li class="mediaList-item first-item">	<a class="mediaList-link size-medium" href="/v1hafpj-emergency-meeting-the-matrix-attacks..html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://sp.rmbl.ws/s8/1/h/m/C/v/hmCvf.0kob-small-EMERGENCY-MEETING-THE-MATRI.jpg" alt="EMERGENCY MEETING - THE MATRIX ATTACKS.">
+							<small class=mediaList-duration>1h13m14s</small>
+					</div>
+		<div class="mediaList-info first-item">
+			<h3 title="EMERGENCY MEETING - THE MATRIX ATTACKS." class="mediaList-heading size-medium">EMERGENCY MEETING - THE MATRIX ATTACKS.</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-a028060d28a65a542d26cee2d12a9a63 mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">TateSpeech</h4>
+																													</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item">	<a class="mediaList-link size-medium" href="/v1g7hgf-the-pit-part-two-a-vital-strategy-session-presented-by-true-the-vote-81622.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://sp.rmbl.ws/s8/1/F/G/G/o/FGGof.0kob-small-The-Pit-Part-Two-A-Vital-St.jpg" alt="The Pit’ Part Two - A Vital Strategy Session presented by True The Vote 8/16/22">
+							<small class=mediaList-duration>12h54m45s</small>
+					</div>
+		<div class="mediaList-info">
+			<h3 title="The Pit’ Part Two - A Vital Strategy Session presented by True The Vote 8/16/22" class="mediaList-heading size-medium">The Pit’ Part Two - A Vital Strategy Session presented by True The Vote 8/16/22</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-b8bad1aa740784472fb61890249bb854 mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">Right Side Broadcasting Network</h4>
+																													</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item">	<a class="mediaList-link size-medium" href="/v1hg68d-max-blumental-ukraine-war-fbi-weaponization-cia-smear-campaigns.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://sp.rmbl.ws/s8/1/n/I/D/w/nIDwf.0kob-small-Max-Blumental-Ukraine-War-F.jpg" alt="Max Blumental: Ukraine War, FBI Weaponization, CIA Smear Campaigns">
+							<small class=mediaList-duration>1h22m29s</small>
+					</div>
+		<div class="mediaList-info">
+			<h3 title="Max Blumental: Ukraine War, FBI Weaponization, CIA Smear Campaigns" class="mediaList-heading size-medium">Max Blumental: Ukraine War, FBI Weaponization, CIA Smear Campaigns</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-a65555da375ef71f9288b001d1d9deb8 mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">The Dive With Jackson Hinkle</h4>
+																													</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item">	<a class="mediaList-link size-medium" href="/v1hcg2t-episode-1053-rumble-friday.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://sp.rmbl.ws/s8/6/L/f/Z/v/LfZvf.0kob.1.jpg" alt="Episode 1053: Rumble Friday!">
+							<small class=mediaList-duration>2h06m08s</small>
+					</div>
+		<div class="mediaList-info">
+			<h3 title="Episode 1053: Rumble Friday!" class="mediaList-heading size-medium">Episode 1053: Rumble Friday!</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-9e05a4c8d7d90118daca1dd5be45fc08 mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">Revenge of the Cis</h4>
+																													</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item">	<a class="mediaList-link size-medium" href="/v1hfnmd-the-interview-lucas-gerhard-free-speech-and-fighting-the-state.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://sp.rmbl.ws/s8/6/v/P/x/w/vPxwf.0kob.1.jpg" alt="The Interview: Lucas Gerhard - Free Speech and Fighting the State">
+							<small class=mediaList-duration>3h21m53s</small>
+					</div>
+		<div class="mediaList-info">
+			<h3 title="The Interview: Lucas Gerhard - Free Speech and Fighting the State" class="mediaList-heading size-medium">The Interview: Lucas Gerhard - Free Speech and Fighting the State</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-fa96777532f14bd6caf72b34405cfada mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">Rekieta Law</h4>
+																															<small class="mediaList-earnings">$0.62 earned</small>
+									</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item">	<a class="mediaList-link size-medium" href="/v1hcj85-my-son-hunter-trailer-debut.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://sp.rmbl.ws/s8/1/v/f/0/v/vf0vf.0kob-small-My-Son-Hunter-Trailer-Debut.jpg" alt="My Son Hunter Trailer Debut">
+							<small class=mediaList-duration>44m44s</small>
+					</div>
+		<div class="mediaList-info">
+			<h3 title="My Son Hunter Trailer Debut" class="mediaList-heading size-medium">My Son Hunter Trailer Debut</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-3ef79b49ca2e4e48767b8e9375f9d4cb mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">Breitbart</h4>
+																													</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item">	<a class="mediaList-link size-medium" href="/v1hbm2d-an-uncomfortable-convo-about-ivf-surrogacy-gay-adoption-and-divorce.-with-k.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://sp.rmbl.ws/s8/1/1/L/P/v/1LPvf.0kob-small-An-Uncomfortable-Convo-Abou.jpg" alt='"An Uncomfortable Convo About IVF, Surrogacy, Gay Adoption & Divorce.” - with Katy Faust'>
+							<small class=mediaList-duration>1h13m04s</small>
+					</div>
+		<div class="mediaList-info">
+			<h3 title='"An Uncomfortable Convo About IVF, Surrogacy, Gay Adoption & Divorce.” - with Katy Faust' class="mediaList-heading size-medium">"An Uncomfortable Convo About IVF, Surrogacy, Gay Adoption & Divorce.” - with Katy Faust</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-4b4507de177285757b940ee0a769eafa mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">The Spillover with Alex Clark</h4>
+																													</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item">	<a class="mediaList-link size-medium" href="/v1hfdk9-zuckerberg-drops-a-bombshell-about-the-rigged-election-ep.-1839-the-dan-bon.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://sp.rmbl.ws/s8/1/P/D/u/w/PDuwf.0kob-small-Zuckerberg-Drops-A-Bombshel.jpg" alt="Zuckerberg Drops A Bombshell About The Rigged Election (Ep. 1839) - The Dan Bongino Show">
+							<small class=mediaList-duration>59m05s</small>
+					</div>
+		<div class="mediaList-info">
+			<h3 title="Zuckerberg Drops A Bombshell About The Rigged Election (Ep. 1839) - The Dan Bongino Show" class="mediaList-heading size-medium">Zuckerberg Drops A Bombshell About The Rigged Election (Ep. 1839) - The Dan Bongino Show</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-799802816256b99d4163da39d5f2c535 mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">The Dan Bongino Show</h4>
+																													</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item">	<a class="mediaList-link size-medium" href="/v1hep5f-friday-live-ashley-biden-diary-mtg-swatted-twice-hunter-biden-bombshell-sup.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://sp.rmbl.ws/s8/6/t/V/m/w/tVmwf.0kob.1.jpg" alt="Friday LIVE: Ashley Biden Diary, MTG Swatted Twice, Hunter Biden Bombshell! (Superchats)">
+							<small class=mediaList-duration>1h06m03s</small>
+					</div>
+		<div class="mediaList-info">
+			<h3 title="Friday LIVE: Ashley Biden Diary, MTG Swatted Twice, Hunter Biden Bombshell! (Superchats)" class="mediaList-heading size-medium">Friday LIVE: Ashley Biden Diary, MTG Swatted Twice, Hunter Biden Bombshell! (Superchats)</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-0d65a2e181c4b6a5eb0b4b5e6bb05a41 mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">Styxhexenhammer666</h4>
+																													</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item last-item">	<a class="mediaList-link size-medium" href="/v1h9t33-when-karma-hits.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://sp.rmbl.ws/s8/1/_/b/v/v/_bvvf.0kob-small-When-karma-hits.jpg" alt="Falling tree sends dude flying in the air">
+							<small class=mediaList-duration>8s</small>
+					</div>
+		<div class="mediaList-info last-item">
+			<h3 title="Falling tree sends dude flying in the air" class="mediaList-heading size-medium">Falling tree sends dude flying in the air</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-5595bfc05d3de10ecace0cd8af06e81b mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">UbaldoNotini</h4>
+																															<small class="mediaList-earnings">$15.65 earned</small>
+									</div>
+			</section>
+		</div>
+		</a></li></ul>		</aside>
+		<div style="height:20px;clear:both"></div>
+		</article>			</div>
+		</main>
+				<header class="header">
+			<div class="header-div constrained">
+				<button class="main-menu-toggle" aria-label="main menu">
+					<svg class=main-menu-open width=20 height=16><path d="M0 1h20M0 8h20M0 15h20" /></svg>					<svg class=main-menu-close width=20 height=16><path d="M2.5.5 l15 15 m0-15 l-15 15" /></svg>				</button>
+				<a href="/" class="header-logo">
+					<img src="/img/rumble-full-logo-v4.svg" id="logo_light" alt="Rumble">
+					<img hidden src="/img/rumble-full-logo-v4-dark.svg" id="logo_dark" alt="Rumble">
+				</a>
+						<form class="header-search">
+						<select class="header-search-select select-arrow-bg">
+									<option>Videos</option>
+									<option>Channels</option>
+							</select>
+			<input type=search class="header-search-field" name="query" placeholder="Search" value="">
+			<button class="header-search-submit" aria-label="search Rumble">
+				<svg class=header-search-icon viewBox="0 0 26 26"><path fill="none" stroke-linecap="round" stroke-width="2" d="M17.6 17.6l6.3 6.3M2.2 11.2a9 9 0 1 0 18 0 9 9 0 1 0-18 0"/></svg>			</button>
+		</form>
+		
+									<button class="header-upload" title=Upload>
+						<svg viewBox="0 0 26 26"><path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.2 17.5s-2.7-3.1-1.9-7.1C3 6.8 5.9 3.9 9.9 3.9c3.5 0 5.1 1.6 6.2 2.7 1.1 1.1 1.4 3.5 1.4 3.5s2.7-.7 4.4.7 2.4 3.8 1.8 5.6-2.6 3.1-2.6 3.1M9 17.1l4.1-3.8 4.2 3.8m-4.2 5.4v-9.2"/></svg>					</button>
+				
+						<button class="header-user" aria-label="sign in">
+			<svg class="user-image user-image--icon header-user-img"><path fill="none" stroke-linecap="round" stroke-width="2" d="M8 6.8a5 5 0 1 0 10 0 5 5 0 1 0-10 0m14.8 16.7v-3.7a4 4 0 0 0-4-4H7.2a4 4 0 0 0-4 4v3.7"/></svg>				<span class="header-user-info">
+					<span class="header-user-name">Sign In</span>
+									</span>
+					</button>
+					</div>
+		</header>
+				<nav class="navs">
+			<div class="constrained" style="position:relative">
+				<div id="main-menu" class="hover-menu main-menu-nav">
+					<a class="main-menu-item" href="/videos?date=this-week"><svg class=main-menu-icon><path fill="none" d="M5 13a8 8 0 1 0 16 0 8 8 0 1 0-16 0M2.9 8.6C4.1 6 6.2 3.9 8.7 2.8m14.5 14.7a11.5 11.5 0 0 1-5.8 5.7M13 6.9V13h4.2"/></svg>Latest</a>		<a class="main-menu-item" href="/editor-picks"><svg class=main-menu-icon width=26 height=27 viewBox="0 0 26 27"><path fill="none" d="M4 8a6.5 7 0 1 0 13 0A6.5 7 0 1 0 4 8m15 13.5C15.6 11 1.1 13.9 1 25m13-2.4l3.9 4.4 7.1-8"/></svg>Editor Picks</a>
+		<a class="main-menu-item" href="/videos?sort=views&date=today"><svg class=main-menu-icon width=24 height=24 viewBox="0 0 24 24"><path d="m23 6-9.5 9.5-5-5L1 18M17 6h6v6"/></svg>Trending</a>
+				<a class="main-menu-item" href="/license-videos"><svg class=main-menu-icon width=26 height=26 viewBox="0 0 26 26"><path fill="none" d="M19.1 20H2.3V6h11.8M24.3 20h-5.5s-.9-1.5-1.4-2c-.5-.5-1-1.3-1.9-1.7-.4-.2-2.2-1.6-2.3-2.5 0-1.7 1.1-1.4 2.3-1 1.2.5 3.6 1.6 3.6 1.6l-.9-6.7S12.9 6.2 13 5.9c.1-.3 5.8-1.9 7.2-.2s2 4.5 2.8 5.1c.8.6 1.5.6 1.5.6 M6.8,11.1a1.8,1.8 0 1,0 3.6,0a1.8,1.8 0 1,0 -3.6,0 M5.8 16.6c0-1.5 1.2-2.7 2.7-2.7s2.7 1.2 2.7 2.7"/></svg>License Videos</a>
+		<div hidden class="js-theme-option-group">
+	<h3 class="main-menu-heading">Theme</h3>
+	<a class="main-menu-item js-theme-option" data-theme="system" href=""><svg class=main-menu-icon width=24 height=24 viewBox="0 0 24 24"><path d="M12 1v2m0 18v2M4.2 4.2l1.4 1.4m12.8 12.8 1.4 1.4M1 12h2m18 0h2M4.2 19.8l1.4-1.4M18.4 5.6l1.4-1.4M16 12.36A4 4 0 1 1 11.64 8 3.12 3.12 0 0 0 16 12.36Z"/></svg> OS Default</a>
+	<a class="main-menu-item js-theme-option" data-theme="dark" href=""><svg class=main-menu-icon width=24 height=24 viewBox="0 0 24 24"><path d="M12.1 4.1c.3-.4 0-.9-.5-.8a8.5 8.5 0 1 0 9.3 12.4c.3-.4-.1-.9-.6-.7A7 7 0 0 1 12 4.2Z"/></svg> Dark Mode</a>
+	<a class="main-menu-item js-theme-option" data-theme="light" href=""><svg class=main-menu-icon width=24 height=24 viewBox="0 0 24 24"><path d="M7 12a5 5 0 1 0 10 0 5 5 0 1 0-10 0m5-11v2m0 18v2M4.2 4.2l1.4 1.4m12.8 12.8 1.4 1.4M1 12h2m18 0h2M4.2 19.8l1.4-1.4M18.4 5.6l1.4-1.4" /></svg> Light Mode</a>
+</div>
+		<h3 class="main-menu-heading">Featured Channels</h3><a class="main-menu-item" href="/c/Reuters">Reuters</a><a class="main-menu-item" href="/c/WildCreatures">Wild Creatures</a><a class="main-menu-item" href="/c/WayneDupreeShow">The Wayne Dupree Show</a><a class="main-menu-item" href="/c/Newsy">Newsy</a><a class="main-menu-item" href="/c/JustPlanes">JustPlanes</a><a class="main-menu-item" href="/c/DevinNunes">Devin Nunes</a><a class="main-menu-item" href="/c/MarkDice">MarkDice</a><a class="main-menu-item" href="/c/Bongino">The Dan Bongino Show</a><a class="main-menu-item" href="/c/Cioccolanti">Cioccolanti</a><a class="main-menu-item" href="/c/DineshDsouza">Dinesh Dsouza</a><a class="main-menu-item" href="/c/MLChristiansen">MLChristiansen</a><a class="main-menu-item" href="/c/RobertGouveia">RobertGrulerEsq</a><a class="main-menu-item" href="/c/BannonsWarRoom">BannonsWarRoom</a><a class="main-menu-item" href="/c/BennyJohnson">BennyJohnson</a><a class="main-menu-item" href="/c/NoreensKitchen">NoreensKitchen</a><a class="main-menu-item" href="/c/CharlieKirk">Charlie Kirk</a><a class="main-menu-item" href="/c/NewsmaxTV">NewsmaxTV</a><a class="main-menu-item" href="/c/MariaBartiromo">MariaBartiromo</a><a class="main-menu-item" href="/user/vivafrei">Viva Frei</a><a class="main-menu-item" href="/c/Fleccas">Fleccas</a><a class="main-menu-item" href="/c/Styxhexenhammer666">Styxhexenhammer666</a><a class="main-menu-item" href="/c/SeanHannity">Sean Hannity</a><a class="main-menu-item" href="/c/TrishRegan">Trish Regan</a><a class="main-menu-item" href="/c/SamuelEarpArtist">Samuel Earp Artist</a><a class="main-menu-item" href="/c/KayaJones">KayaJones</a><a class="main-menu-item" href="/c/TheNerdRealm">The Nerd Realm</a><a class="main-menu-item" href="/c/sideserfcakes">Side Serf Cakes</a><a class="main-menu-item" href="/c/spaceXcentric">spaceXcentric</a><a class="main-menu-item" href="/c/MikhailaPeterson">Mikhaila Peterson</a><a class="main-menu-item" href="/c/NTDNews">NTDNews</a><a class="main-menu-item" href="/c/TheOfficerTatum">The Officer Tatum</a><a class="main-menu-item" href="/c/OutKickTheCoverage">OutKick</a><a class="main-menu-item" href="/c/CWLemoine">CWLemoine</a><a class="main-menu-item" href="/c/LaurenChen">Lauren Chen</a><a class="main-menu-item" href="/c/DonaldTrump">Donald Trump</a><a class="main-menu-item" href="/c/TheHistoryGuy">The History Guy</a><a class="main-menu-item" href="/c/RebelNews">RebelNews</a><a class="main-menu-item" href="/c/pintswithaquinas">pintswithaquinas</a><a class="main-menu-item" href="/c/TheBodyLanguageGuy">TheBodyLanguageGuy</a><a class="main-menu-item" href="/c/YelllowFlash">YelllowFlash</a><a class="main-menu-item" href="/c/BrightInsight">BrightInsight</a><a class="main-menu-item" href="/c/PaulandMorgan">PaulandMorgan</a><a class="main-menu-item" href="/c/AwakenWithJP">Awaken With JP</a><a class="main-menu-item" href="/c/TulsiGabbard">Tulsi Gabbard</a><a class="main-menu-item" href="/c/TheBabylonBee">The Babylon Bee</a><a class="main-menu-item" href="/c/BenShapiro">Ben Shapiro</a><a class="main-menu-item" href="/c/FactsChannel">Facts</a><a class="main-menu-item" href="/c/RandPaul">Rand Paul</a><a class="main-menu-item" href="/c/DonaldJTrumpJr">Donald Trump Jr</a><a class="main-menu-item" href="/c/EliseStefanik">Elise Stefanik</a><a class="main-menu-item" href="/c/BlacktipH">BlacktipH</a><a class="main-menu-item" href="/c/LifeStories">Life Stories</a><a class="main-menu-item" href="/c/c-647947">SCI</a><a class="main-menu-item" href="/c/StevenCrowder">Steven Crowder</a><a class="main-menu-item" href="/c/NYPost">New York Post</a><a class="main-menu-item" href="/c/PageSix">PageSix</a><a class="main-menu-item" href="/c/Decider">Decider</a><a class="main-menu-item" href="/c/JohnStossel">John Stossel</a><a class="main-menu-item" href="/c/RonPaulLibertyReport">Ron Paul Liberty Report</a><a class="main-menu-item" href="/c/ARKMedia">ARKMedia</a><a class="main-menu-item" href="/c/Locals">Locals</a><a class="main-menu-item" href="/c/Timcast">Timcast</a><a class="main-menu-item" href="/c/TimcastIRL">TimcastIRL</a><a class="main-menu-item" href="/c/Entrepreneur">Entrepreneur</a><a class="main-menu-item" href="/c/EpochTV">EpochTV</a><a class="main-menu-item" href="/c/WhitneyBjerken">WhitneyBjerken</a><a class="main-menu-item" href="/c/DrDrew">Dr Drew</a><a class="main-menu-item" href="/c/Yarnhub">Yarnhub</a><a class="main-menu-item" href="/c/RubinReport">Rubin Report</a><a class="main-menu-item" href="/c/GGreenwald">Glenn Greenwald</a><a class="main-menu-item" href="/c/MattKohrs">Matt Kohrs (Finance)</a><a class="main-menu-item" href="/c/HabibiBros">Habibi Power Hour</a><a class="main-menu-item" href="/c/Orf">Orf</a><a class="main-menu-item" href="/c/Inquire">Inquire</a><a class="main-menu-item" href="/c/phetasy">phetasy</a><a class="main-menu-item" href="/c/academyofideas">academyofideas</a><a class="main-menu-item" href="/c/JorgeMasvidal">Jorge Masvidal</a><a class="main-menu-item" href="/c/russellbrand">Russell Brand</a><a class="main-menu-item" href="/c/HonestReportingCanada">Honest Reporting</a><a class="main-menu-item" href="/c/GrantCardone">Grant Cardone</a><a class="main-menu-item" href="/c/ChrisJericho">ChrisJericho</a><a class="main-menu-item" href="/c/TheRamseyShowHighlights">TheRamseyShowHighlights</a><a class="main-menu-item" href="/c/TheRamseyShowFullEpisodes">TheRamseyShowFullEpisodes</a><a class="main-menu-item" href="/c/TheInterviewRoom">TheInterviewRoom</a><a class="main-menu-item" href="/c/MedicalMedium">MedicalMedium</a><a class="main-menu-item" href="/c/TheJimmyDoreShow">TheJimmyDoreShow</a><a class="main-menu-item" href="/c/ClayandBuck">ClayandBuck</a><a class="main-menu-item" href="/c/UprightHealth">UprightHealth</a><a class="main-menu-item" href="/c/TheRichDadChannel">TheRichDadChannel</a><a class="main-menu-item" href="/c/NaturesAlwaysRight">NaturesAlwaysRight</a><a class="main-menu-item" href="/c/ChampagneSharks">ChampagneSharks</a><a class="main-menu-item" href="/c/PetervonPanda">PetervonPanda</a><a class="main-menu-item" href="/c/AfterSkool">AfterSkool</a><a class="main-menu-item" href="/c/SmokyRibsBBQ">SmokyRibsBBQ</a><a class="main-menu-item" href="/c/MichaelLeeStrategy">MichaelLeeStrategy</a><a class="main-menu-item" href="/c/iammrbeat">iammrbeat</a><a class="main-menu-item" href="/c/WorkshopCompanion">WorkshopCompanion</a><a class="main-menu-item" href="/c/StockCurry">StockCurry</a><a class="main-menu-item" href="/c/ThePodcastoftheLotusEaters">ThePodcastoftheLotusEaters</a><a class="main-menu-item" href="/c/ArielleScarcella">ArielleScarcella</a><a class="main-menu-item" href="/c/TradersLanding">TradersLanding</a><a class="main-menu-item" href="/c/RuckaRuckaAli">Rucka Rucka Ali</a><a class="main-menu-item" href="/c/DegenerateJay">DegenerateJay</a><a class="main-menu-item" href="/c/DegeneratePlays">DegeneratePlays</a><a class="main-menu-item" href="/c/DVGPodcast">DVGPodcast</a><a class="main-menu-item" href="/c/TheDiveWithJacksonHinkle">TheDiveWithJacksonHinkle</a><a class="main-menu-item" href="/c/thatbeatgoeson">thatbeatgoeson</a><a class="main-menu-item" href="/c/Kilmeade">Kilmeade</a><a class="main-menu-item" href="/c/TheHillbillyKitchen">TheHillbillyKitchen</a><a class="main-menu-item" href="/c/NewsTalkSTL">NewsTalkSTL</a><a class="main-menu-item" href="/c/LogOffAlready">LogOffAlready</a><a class="main-menu-item" href="/c/EnterShaolin">EnterShaolin</a><a class="main-menu-item" href="/c/WillCain">WillCain</a><a class="main-menu-item" href="/c/MegynKelly">MegynKelly</a><a class="main-menu-item" href="/c/RepKevinMcCarthy">RepKevinMcCarthy</a><a class="main-menu-item" href="/c/AlisonMorrow">AlisonMorrow</a><a class="main-menu-item" href="/c/BenUyeda">BenUyeda</a><a class="main-menu-item" href="/c/MrBuildIt">MrBuildIt</a><a class="main-menu-item" href="/c/SteveScalise">SteveScalise</a><a class="main-menu-item" href="/c/TheHeritageFoundation">TheHeritageFoundation</a><a class="main-menu-item" href="/c/TheDailySignal">TheDailySignal</a><a class="main-menu-item" href="/c/GreenDreamProject">GreenDreamProject</a><a class="main-menu-item" href="/c/BlackPowerMediaChannel">BlackPowerMediaChannel</a><a class="main-menu-item" href="/c/AmericanSongwriter">AmericanSongwriter</a><a class="main-menu-item" href="/c/modernwisdompodcast">modernwisdompodcast</a><a class="main-menu-item" href="/c/IsaacArthur">IsaacArthur</a><a class="main-menu-item" href="/c/TomAntosFilms">TomAntosFilms</a><a class="main-menu-item" href="/c/ColionNoir">ColionNoir</a><a class="main-menu-item" href="/c/KimIversen">KimIversen</a><a class="main-menu-item" href="/c/Homesteadonomics">Homesteadonomics</a><a class="main-menu-item" href="/c/TheAdventureAgents">TheAdventureAgents</a><a class="main-menu-item" href="/c/NDWoodworkingArt">NDWoodworkingArt</a><a class="main-menu-item" href="/c/KenDBerryMD">KenDBerryMD</a><a class="main-menu-item" href="/c/davidpakmanshow">davidpakmanshow</a><a class="main-menu-item" href="/c/HeresyFinancial">HeresyFinancial</a><a class="main-menu-item" href="/c/RepJimBanks">RepJimBanks</a><a class="main-menu-item" href="/c/ATRestoration">ATRestoration</a><a class="main-menu-item" href="/c/ThisSouthernGirlCan">ThisSouthernGirlCan</a><a class="main-menu-item" href="/c/RockFeed">RockFeed</a><a class="main-menu-item" href="/c/CountryCast">CountryCast</a><a class="main-menu-item" href="/c/ShaunAttwood">ShaunAttwood</a><a class="main-menu-item" href="/c/diywife">diywife</a><a class="main-menu-item" href="/c/RekietaLaw">RekietaLaw</a><a class="main-menu-item" href="/c/MontyFranklin">MontyFranklin</a><a class="main-menu-item" href="/c/GeeksandGamers">GeeksandGamers</a><a class="main-menu-item" href="/c/SportsWars">SportsWars</a><a class="main-menu-item" href="/c/nfldaily">nfldaily</a><a class="main-menu-item" href="/c/nbanow">nbanow</a><a class="main-menu-item" href="/c/GeeksAndGamersPlay">GamingWithGeeks</a><a class="main-menu-item" href="/c/ParkHoppin">ParkHoppin</a><a class="main-menu-item" href="/c/GeeksAndGamersClips">GeeksAndGamersClips</a><a class="main-menu-item" href="/c/chiefstv">chiefstv</a><a class="main-menu-item" href="/c/brownsreport">brownstv</a><a class="main-menu-item" href="/c/nygiantstv">giantstv</a><a class="main-menu-item" href="/c/warriorstv">warriorstv</a><a class="main-menu-item" href="/c/lakerstv">lakerstv</a><a class="main-menu-item" href="/c/DynastyFlock">DynastyFlock</a><a class="main-menu-item" href="/c/FantasyFlockNetwork">FantasyFlockNetwork</a><a class="main-menu-item" href="/c/rwmalonemd">rwmalonemd</a><a class="main-menu-item" href="/c/Chubbyemu">Chubbyemu</a><a class="main-menu-item" href="/c/AnthonyJ350">AnthonyJ350</a><a class="main-menu-item" href="/c/ReasonTV">ReasonTV</a><a class="main-menu-item" href="/c/GfinityTv">GfinityTv</a><a class="main-menu-item" href="/c/engineerman">engineerman</a><a class="main-menu-item" href="/c/Newsthink">Newsthink</a><a class="main-menu-item" href="/c/MrScientific">MrScientific</a><a class="main-menu-item" href="/c/TheS">TheS</a><a class="main-menu-item" href="/c/Debunked">Debunked</a><a class="main-menu-item" href="/c/sydneywatson">sydneywatson</a><a class="main-menu-item" href="/c/UncivilLaw">UncivilLaw</a><a class="main-menu-item" href="/c/Dannyjokes">Dannyjokes</a><a class="main-menu-item" href="/c/BitcoinMagazine">BitcoinMagazine</a><a class="main-menu-item" href="/c/SonofaTech">SonofaTech</a><a class="main-menu-item" href="/c/MysteryScoop">MysteryScoop</a><a class="main-menu-item" href="/c/Multipolarista">Multipolarista</a><a class="main-menu-item" href="/c/TheLeadAttorney">TheLeadAttorney</a><a class="main-menu-item" href="/c/Monark">Monark</a><a class="main-menu-item" href="/c/ThinkBeforeYouSleep">ThinkBeforeYouSleep</a><a class="main-menu-item" href="/c/Ferrez">Ferrez</a><a class="main-menu-item" href="/c/RonDeSantisFL">RonDeSantisFL</a><a class="main-menu-item" href="/c/TheDawgfathasBBQ">TheDawgfathasBBQ</a><a class="main-menu-item" href="/c/JimBreuer">JimBreuer</a><a class="main-menu-item" href="/c/RyanLongcomedy">RyanLongcomedy</a><a class="main-menu-item" href="/c/LeeCamp">LeeCamp</a><a class="main-menu-item" href="/c/PrimitiveSurvivalTools">PrimitiveSurvivalTools</a><a class="main-menu-item" href="/c/TheChrisSalcedoShow">TheChrisSalcedoShow</a><a class="main-menu-item" href="/c/FullMag">FullMag</a><a class="main-menu-item" href="/c/BitBoyCrypto">BitBoyCrypto</a><a class="main-menu-item" href="/c/Komando">Komando</a><a class="main-menu-item" href="/c/TheMagicMatt">TheMagicMatt</a><a class="main-menu-item" href="/c/TheKevinRobertsShow">TheKevinRobertsShow</a><a class="main-menu-item" href="/c/TheInfoWarrior">TheInfoWarrior</a><a class="main-menu-item" href="/c/DirtyMoney">DirtyMoney</a><a class="main-menu-item" href="/c/UpperEchelonGamers">UpperEchelonGamers</a><a class="main-menu-item" href="/c/TripleSgames">TripleSgames</a><a class="main-menu-item" href="/c/BrainyDose">BrainyDose</a><a class="main-menu-item" href="/c/worldnomactravel">worldnomactravel</a><a class="main-menu-item" href="/c/TylerFischer">TylerFischer</a><a class="main-menu-item" href="/c/Geometryptamine">GeometryTrip</a><a class="main-menu-item" href="/c/OwnagePranks">OwnagePranks</a><a class="main-menu-item" href="/c/LockPickingLawyer">LockPickingLawyer</a><a class="main-menu-item" href="/c/HikeCampClimb">HikeCampClimb</a><a class="main-menu-item" href="/c/NickSearcy">NickSearcy</a><a class="main-menu-item" href="/c/ReviewTechUSA">ReviewTechUSA</a><a class="main-menu-item" href="/c/Rengawr">Rengawr</a><a class="main-menu-item" href="/c/lifeinthe1800s">lifeinthe1800s</a><a class="main-menu-item" href="/c/MarkandMattis">MarkandMattis</a><a class="main-menu-item" href="/c/GabePoirot">GabePoirot</a><a class="main-menu-item" href="/c/Backfire">Backfire</a><a class="main-menu-item" href="/c/realpatriotgames">realpatriotgames</a><a class="main-menu-item" href="/c/JoshuaPhilipp">JoshuaPhilipp</a><a class="main-menu-item" href="/c/RumbleEvents">RumbleEvents</a><a class="main-menu-item" href="/c/robbraxman">robbraxman</a><a class="main-menu-item" href="/c/LofiGirl">LofiGirl</a><a class="main-menu-item" href="/c/usefulidiots">usefulidiots</a><a class="main-menu-item" href="/c/TateSpeech">TateSpeech</a><a class="main-menu-item" href="/c/SailingZatara">SailingZatara</a><a class="main-menu-item" href="/c/DrJohnCampbell">DrJohnCampbell</a><a class="main-menu-item" href="/user/RepMattGaetz">RepMattGaetz</a><a class="main-menu-item" href="/user/Libsoftiktok">Libsoftiktok</a><a class="main-menu-item" href="/user/TreasureHuntingWithJebus">TreasureHuntingWithJebus</a><a class="main-menu-item" href="/user/TheSCraft">TheSCraft</a><a class="main-menu-item" href="/user/andyh1202">andyh1202</a><a class="main-menu-item" href="/user/HybridCalisthenics">HybridCalisthenics</a><a class="main-menu-item" href="/user/OwnagePranks">OwnagePranks</a><a class="main-menu-item" href="/user/LockPickingLawyer">LockPickingLawyer</a><a class="main-menu-item" href="/user/lifeinthe1800s">lifeinthe1800s</a><a class="main-menu-item" href="/user/HumbleMechanic1">HumbleMechanic1</a><a class="main-menu-item" href="/user/ViralHog">Viral Hog</a>				</div>
+								<div class="hover-menu header-upload-menu">
+					<a class="main-menu-item" href="/upload.php"><svg class=main-menu-icon viewBox="0 0 26 26"><path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.2 17.5s-2.7-3.1-1.9-7.1C3 6.8 5.9 3.9 9.9 3.9c3.5 0 5.1 1.6 6.2 2.7 1.1 1.1 1.4 3.5 1.4 3.5s2.7-.7 4.4.7 2.4 3.8 1.8 5.6-2.6 3.1-2.6 3.1M9 17.1l4.1-3.8 4.2 3.8m-4.2 5.4v-9.2"/></svg>Upload Video</a>
+					<a class="main-menu-item" href="/live?go-live"><svg class=main-menu-icon width=20 viewBox="0 0 30 16"><path d="M8 4a8 8 0 0 0 0 8M4 1a14 14 0 0 0 0 14m18-3a8 8 0 0 0 0-8m4 11a14 14 0 0 0 0-14" stroke-width="2" stroke-linecap="round" fill="none"/><circle cx="15" cy="8" r="2" stroke-width="4" fill="none" /></svg>Go Live</a>
+				</div>
+			</div>
+		</nav>
+				<footer class="footer">
+			<div class="constrained">
+				<nav class="footer-nav">
+					<a class="footer-nav-link" target=_blank rel=noopener href="//help.rumble.com/">Developers</a>
+					<a class="footer-nav-link" rel=noopener href="/our-apps/">Our Apps</a>
+					<a class="footer-nav-link" target=_blank rel=noopener href="//corp.rumble.com/">About Us</a>
+					<a class="footer-nav-link" target=_blank rel=noopener href="//corp.rumble.com/careers/">Careers</a>
+				</nav>
+
+				<div class="footer-terms-copyright">
+					<nav class="footer-terms">
+						<a class="footer-terms-link divider" rel="nofollow" href="/s/terms">Terms &amp; Conditions</a>
+						<a class="footer-terms-link divider" rel="nofollow" href="/s/privacy">Privacy Policy</a>
+						<a class="footer-terms-link" rel="nofollow" href="/s/dmca">Copyright / DMCA</a>
+					</nav>
+					<p class="footer-copyright">Copyright &copy; 2022 Rumble. All Rights Reserved.</p>
+				</div>
+			</div>
+		</footer>
+		<div class="news_notification">
+	<a class="news_notification_a" href="https://corp.rumble.com/blog/rumble-and-cfvi-announce-effectiveness-of-s-4-registration-statement/" rel="nofollow noopener" target="_blank">
+		<strong>BREAKING NEWS</strong>: Rumble Announces A Major Step Towards Merging with NASDAQ: $CFVI
+	</a>
+	<button class="news_close" type="button" title="Dismiss the notification">
+		<svg class=news_close-x width=24 height=24 viewBox="0 0 24 24"><path fill="none" stroke-width="3" d="m5 5 14 14m0-14L5 19"/></svg>	</button>
+</div>
+
+		<script>$$={query:function(e,n){return Array.isArray(e)&&(n=e[1],e=e[0]),n=n||document,"string"==typeof e?n.querySelectorAll(e):[e]},each:function(e,n){for(var t=0;t<e.length;t++)n.call(e[t])},gt:function(e){return(new Date).getTime()/(e?1e3:1)},getByClass:function(e){var n=$$.query("."+e);return 1<=n.length&&n[0]},isVisible:function(e){return 0<e.offsetWidth&&0<e.offsetHeight},addClass:function(e,n){return!e.classList.contains(n)&&(e.classList.toggle(n),!0)},removeClass:function(e,n){e.classList.remove(n)},addClick:function(e,t){var n,r=$$.query(e);if(r)for(n=0;n<r.length;n++)r[n]&&r[n].addEventListener("click",function(e){var n=t.call(this,e);return n||void 0===n||e.stopPropagation(),n})},addServiceClick:function(e,n,t,r,c){$$.addClick(e,function(e){e.preventDefault(),$$.serviceGet(n,t,r,c)})},urlQueryObject:function(){var t={};return"undefined"==typeof URLSearchParams||new URLSearchParams(location.search).forEach(function(e,n){t[n]=e}),t},urlEncodeData:function(e){var n,t="";for(n in e)e.hasOwnProperty(n)&&(t+=(t?"&":"")+encodeURIComponent(n)+"="+encodeURIComponent(e[n]));return t},include:function(e,n){var t=document.createElement("script");t.src=e,t.async=!0,n&&(t.onload=n),document.head.appendChild(t)},includeCSS:function(e){var n=document.createElement("link");n.type="text/css",n.rel="stylesheet",n.href=e,document.head.appendChild(n)}},$$.page_load_time=(new Date).getTime();
+
+$$.injectJSLib=function(e,t){var s=document.createElement("script");return s.defer=!0,s.text=t,"code"!=e&&(s.id="js-"+e,$$.includedJSLibs[e]=s),document.getElementsByTagName("head")[0].appendChild(s),s},$$.injectCSSLib=function(e,t){var s=document.createElement("style");return s.appendChild(document.createTextNode(t)),e&&(s.id="css-"+e,$$.includedCSSLibs[e]=s),(t=document.querySelector("head .js-theme-ss"))?t.insertAdjacentElement("beforebegin",s):document.getElementsByTagName("head")[0].appendChild(s),s},$$.request=function(e,t,s,n){var i=new XMLHttpRequest;n=n||function(){},i.open(t?"POST":"GET",e,!0),i.setRequestHeader("Content-type","application/x-www-form-urlencoded"),i.responseType="json",i.onload=function(){200==i.status?s(i.response):n&&n(i.status,i.response)},i.send(t?$$.urlEncodeData(t):null)},$$.requestGet=function(e,t,s){return $$.request(e,0,t,s)},$$.requestPost=function(e,t,s,n){return $$.request(e,t,s,n)},$$.serviceGet=function(e,t,s,n){return $$.serviceLoad("get",e,t,s,n)},$$.servicePost=function(e,t,s,n){return $$.serviceLoad("post",e,t,s,n)},$$.serviceLoad=function(i,c,o,r,e){"object"==typeof i&&(c=i.name||c,o=i.data||o,r=i.success||r,e=i.fail||e,i=i.type);var t,s,n=Math.floor(1e3*Math.random()),$="__service"+((new Date).getTime()-$$.page_load_time)+"_"+n,d=[],l=[],n="/service.php?",u={};for(s in"post"==i?"object"==typeof o&&(o.get||o.post)&&(t=o.get,o=o.post):o&&(t=o),(t=$$.urlEncodeData(t))&&(n+=t+"&"),u.name=c,$$.includedJSLibs)d.push(s);for(s in 0<d.length&&(u.included_js_libs=d.join(",")),$$.includedCSSLibs)l.push(s);0<l.length&&(u.included_css_libs=l.join(","));function a(e){var t,s,n="";if(e.js_libs){for(t in e.js_libs)e.js_libs.hasOwnProperty(t)&&$$.injectJSLib(t,e.js_libs[t]);delete e.js_libs}if(e.css_libs){for(t in e.css_libs)e.css_libs.hasOwnProperty(t)&&$$.injectCSSLib(t,e.css_libs[t]);delete e.css_libs}e.html&&((s=document.createElement("div")).innerHTML=e.html,e.html=1<s.childNodes.length?s:s.firstChild),e.request={type:i,name:c,data:o},$$[$]=e,$$[$].close=function(){this.html&&this.html.remove(),this.script.remove(),delete $$[$]},e.js_code&&(n="$$."+$+".call=function(){"+e.js_code+"};$$."+$+".call();"),r&&(e.success=r,n+="$$."+$+".success();"),n&&($$[$].script=$$.injectJSLib("code",n))}n+=$$.urlEncodeData(u),"post"==i?$$.requestPost(n,o,a,e):$$.requestGet(n,a,e)};
+
+!function(){var i=[];$$.onload=function(t){if("object"!=typeof i)return t();i.push(t)},window.addEventListener("load",function(){for(var t=i,n=i=0;n<t.length;n++)t[n]()});var e=[];$$.onDomReady=function(t){if("object"!=typeof e)return t();e.push(t)},window.addEventListener("DOMContentLoaded",function(){for(var t=e,n=e=0;n<t.length;n++)t[n]()});var o=[];$$.onScroll=function(t,n){if(void 0===n&&(n=10),0==o.length){function i(){var n=$$.ui.scrollY();$$.each(o,function(){var t=this.last-n;t<this.step&&t>-this.step||(this.last=n,this.f())})}window.addEventListener("scroll",i),setTimeout(function(){i()},25)}o.push({f:t,step:n,last:2*-n})};var c=[];$$.checkVisibility=function(t,n){n=n||0;var i=window.innerHeight||document.documentElement.clientHeight,e=t.getBoundingClientRect(),o=[-n,i+n];return e.top>=o[0]&&e.top<=o[1]||e.bottom>=o[0]&&e.bottom<=o[1]},$$.onVisible=function(t,n,i){if($$.checkVisibility(t,i))return n.call(t);if(0==c.length){$$.onScroll(function(){$$.each(c,function(){$$.checkVisibility(this.elm,this.scan_ahead)&&(c.slice(c.indexOf(this),1),this.f.call(this.elm))})},50)}c.push({elm:t,f:n,scan_ahead:i})}}();
+
+window.rumbleErrorHandler||function(){function d(r){var n=r.match(/http[s]?:\/\/[^\/]*rumble.com(\/.*)$/);return n?n[1]:r}var u=0;window.rumbleErrorHandler=function(r){var n,e,o,t,l=r.message,i=r.filename,c=r.lineno,a=r.colno,m=d(i);i==m||l.match(/^Script error\./)||3<++u||(e=document.location+"",n=[d(e),u,l,m,c,a],r.error&&r.error.stack&&n.push(r.error.stack.split("\n").slice(1,3).join("\n")),o="/l/jserr?err="+encodeURIComponent(JSON.stringify(n)),e==n[0]&&(o="https://rumble.com"+o),(t=document.createElement("img")).src=o,t.width=t.height=1,t.onload=t.onerror=function(){t.onload=null,t.onerror=null})},window.addEventListener("error",window.rumbleErrorHandler)}();
+
+!function(e,n,t,o,c,f,a){e.fbq||(c=e.fbq=function(){c.callMethod?c.callMethod.apply(c,arguments):c.queue.push(arguments)},e._fbq||(e._fbq=c),(c.push=c).loaded=!0,c.version="2.0",c.queue=[],(f=n.createElement(t)).async=!0,setTimeout(function(){f.src="//connect.facebook.net/en_US/fbevents.js",(a=n.getElementsByTagName(t)[0]).parentNode.insertBefore(f,a)},50))}(window,document,"script"),fbq("init","459313920860148"),fbq("track","PageView");
+
+$$.addClick('.media-subscribe', function(){ $$.serviceGet('user.login'); });
+Rumble("play", {"resize":"auto16:9","opts":["skip_ga_load"],"autoNext":0,"rel":11,"video":"v1dzqto","div":"videoPlayer","ad_sys":[9,15,16],"api":function(api) { $$.handlePlayerApi(api) }});
+(function() {
+	$$.rumblesVote={
+		attach:function(elm){
+			var buttons = ['.rumbles-vote-up, .rumbles-vote-down', elm];
+			$$.addClick(buttons, function(){
+				var clicked = this;
+				if (clicked.classList.contains('active')) clicked = null;
+
+				$$.rumblesVote.updateButtons(buttons, clicked);
+				$$.servicePost('user.rumbles', {
+					type: elm.getAttribute('data-type'),
+					id: elm.getAttribute('data-id'),
+					vote: clicked ? clicked.getAttribute('data-vote') : 0
+				}, function() {
+				    this.data ? elm.querySelector('.rumbles-count').textContent = this.data.score : $$.removeClass(clicked, 'active');
+				});
+			});
+		},
+		updateButtons:function(buttons, clicked) {
+			$$.each($$.query(buttons), function() {
+				this === clicked ? $$.addClass(this, 'active') : $$.removeClass(this, 'active');
+			});
+		}
+	};
+
+	var parent = (this != window && typeof this.html == "object") ? this.html : null;
+
+	$$.each($$.query('.rumbles-vote', parent), function(){
+		$$.rumblesVote.attach(this);
+	});
+}).call(this);
+$$.addClick('.media-video-action-embed',function(){
+	$$.serviceGet('media.embed',{video:"1dzqto"});
+});
+$$.handlePlayerApi = function(api) {
+	var b=document.body, c='theatre-mode', rm=api.getResizeMode(), p = $$.query('#vid_' + api.getCurrentVideo().id)[0],
+		d=$$.query('#videoPlayer')[0], dt = $$.query('#theatreVideoPlayer')[0]
+
+	var is_theatre_mode = false;
+
+	api.on("theaterMode", function(do_theatre_mode) {
+		is_theatre_mode = do_theatre_mode;
+
+		if ( do_theatre_mode ) {
+			b.classList.add(c); dt.appendChild(p); api.setResizeMode('full');
+		} else {
+			b.classList.remove(c); d.appendChild(p); api.setResizeMode(rm);
+		}
+	});
+
+	api.on('resize', function() {
+		if( is_theatre_mode ) {
+			dt.style.maxHeight = Math.floor(Math.min(window.innerHeight * 0.85, dt.clientWidth * 9 / 16)) + "px";
+		}
+	});
+}
+
+$$.onDomReady(function(){
+	var video_comments_el = $$.query('#video-comments')[0];
+
+	if ( !video_comments_el ) return;
+
+	$$.serviceGet("comment.list",{video:"1dzqto"}, function() {
+		video_comments_el.textContent = "";
+		video_comments_el.appendChild(this.html);
+	});
+});
+$$.serviceGet('media.banners',{video:"1dzqto", page_type:"RON", ad_system:"revcontent", page_layout:"Default", pub:"3", load:"float"});
+$$.include('https://securepubads.g.doubleclick.net/tag/js/gpt.js');
+$$.addClick('.media-engage-share', function() {
+	$$.serviceGet('media.share', {video:"1dzqto"});
+});
+$$.addClick('.media-video-action-write', function() {
+	$$.serviceGet('media.contribution', {video:"1dzqto"});
+});
+!function(){var a=[];$$.togglePopShow=function(o,s){var t,e;if((s=s||[]).length){o.stopPropagation(),o.preventDefault();var n=s[0].classList.contains("pop-show");for(t=s.length;t--;)e=s[t],n?e.classList.remove("pop-show"):(e.classList.add("pop-show"),a.indexOf(e)<0&&a.push(e))}else for(e=o.target;e instanceof HTMLElement;){if(e.classList.contains("pop-show"))return;e=e.parentNode}for(t=a.length;t--;)e=a[t],s.indexOf(e)<0&&e.classList.remove("pop-show")},$$.addClick(window,function(o){$$.togglePopShow(o)})}();
+
+$$.addClick('.main-menu-toggle', function(e) {
+	$$.togglePopShow(e, [this, $$.query('#main-menu')[0]]);
+})
+$$.addServiceClick('.header-upload', 'user.login', {next: "/upload.php"});
+$$.addClick('.header-search-submit',function(e){
+	var i=$$.getByClass('header-search-field'),
+		s=$$.getByClass('header-search-select'),
+		v=i.value.trim();
+
+	e.preventDefault();
+	if(!$$.isVisible(i)){
+		$$.togglePopShow(e, [i,s,$$.getByClass('header-search')]);
+	}else{
+		if ( v == "" ) {
+			i.focus();
+			return false;
+		}
+
+		var type = s.value.toLowerCase(),
+			submit_button = e.target;
+
+		if ( type == 'videos' ) {
+			type = 'video';
+		} else if ( type == 'channels' ) {
+			type = 'channel';
+		} else if ( type == 'user' ){
+			submit_button.setAttribute("disabled", "");
+			location = location.pathname + "?q="+encodeURIComponent(v);
+			return false;
+		}
+		submit_button.setAttribute("disabled", "");
+		location = "/search/" + type + "?q="+encodeURIComponent(v);
+	}
+	return false;
+});
+$$.user={"username":false,"logged_in":false};
+addThemeSwitcher( '.js-theme-option' , '.js-theme-option-group' );
+$$.addServiceClick('.header-user','user.login');
+window.google_analytics_uacct='UA-44331619-1';
+window.dataLayer=window.dataLayer||[];
+function gtag(){dataLayer.push(arguments);}
+
+gtag("js", new Date());
+gtag("config","UA-44331619-1",{custom_map:{dimension1:"server",dimension2:"user",metric1:"prebid",metric2:"loadtime"},"server":"web8","user":"Guest",'transport_type':'beacon'});
+gtag("event","web8",{"event_category":"ws","event_label":"US"});
+
+$$.include('//www.googletagmanager.com/gtag/js?id=UA-44331619-1&ext=.js');
+(function(){
+var notification_el = $$.getByClass('news_notification');
+var header_el = $$.getByClass('header');
+var navs_el = $$.getByClass('navs');
+var main_el = $$.query('body > main')[0];
+
+var close_notify = function(){
+	notification_el.style.display='none';
+	header_el.style.top=0;
+	navs_el.style.top='4rem';
+	main_el.style.paddingTop='2rem';
+	document.cookie="_nnc=1;path=/;max-age=2592000;secure;samesite";
+};
+
+$$.addClick('.news_close',function(){
+	close_notify();
+	window.removeEventListener('resize', move_layout);
+	return false;
+});
+
+var move_layout = function() {
+	var notification_height = notification_el.getBoundingClientRect().height;
+
+	header_el.style.top = notification_height + 'px';
+	navs_el.style.top = 'calc(4rem + ' + notification_height + 'px)';
+	main_el.style.paddingTop = 'calc(2rem + ' + notification_height + 'px)';
+}
+
+move_layout();
+
+window.addEventListener('resize', move_layout);
+}());
+$$.includedJSLibs={"main":1,"web_services":1,"events":1,"error":1,"facebook_events":1,"darkmode":1,"ui_header":1};$$.includedCSSLibs=[]</script>		</body>
+		</html>
