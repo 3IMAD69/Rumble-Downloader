@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Rumble-Downloader/static/css/main.ffac5837.css",
+    "main.js": "/Rumble-Downloader/static/js/main.629eaa4a.js",
+    "static/js/787.3e9781bc.chunk.js": "/Rumble-Downloader/static/js/787.3e9781bc.chunk.js",
+    "static/media/tutorial.gif": "/Rumble-Downloader/static/media/tutorial.e84d4a7c53cbfabbe678.gif",
+    "static/media/BigLogo.svg": "/Rumble-Downloader/static/media/BigLogo.a2590526929bf1890052f1d3852d244c.svg",
+    "static/media/RD-Logo.svg": "/Rumble-Downloader/static/media/RD-Logo.5db9674dc8370e55dbbc5a9c8a33e878.svg",
+    "index.html": "/Rumble-Downloader/index.html",
+    "main.ffac5837.css.map": "/Rumble-Downloader/static/css/main.ffac5837.css.map",
+    "main.629eaa4a.js.map": "/Rumble-Downloader/static/js/main.629eaa4a.js.map",
+    "787.3e9781bc.chunk.js.map": "/Rumble-Downloader/static/js/787.3e9781bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffac5837.css",
+    "static/js/main.629eaa4a.js"
+  ]
+}
