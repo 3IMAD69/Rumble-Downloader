@@ -30,7 +30,7 @@ function Main({DefRef,LinksScroll,LinksRef}) {
     function openModal() {
       setIsOpen(true)
     }
-    const BypassCorsUrl = 'https://bypass-cors-any.herokuapp.com/' ;
+    const BypassCorsUrl = 'https://corsproxy.io/?' ;
     const ApiUrl = 'https://rumble.com/embedJS/u3/?request=video&ver=2&v=' ;
 
     
