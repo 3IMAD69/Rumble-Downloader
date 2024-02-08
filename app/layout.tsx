@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "Rumble Downloader",
   description: "Download Rumble videos quickly and easily with our free online tool. Simply paste the video link and get access to various download options in high quality. No hassle, just fast downloads!",
   openGraph: {
-    images : ["https://i.imgur.com/NvLW1M0.png"]
+    images : ["https://i.imgur.com/jPjwsag.png"]
   }
 };
 
