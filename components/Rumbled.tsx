@@ -79,7 +79,7 @@ export default function Rumbled() {
                 </div>
                 <p className="mt-3 text-sm text-gray-300 sm:mt-4">
                      If download doesn't work You can also try{' '}
-                     <a onClick={openModal} className="font-medium text-white cursor-pointer">
+                     <a href="" onClick={openModal} className="font-medium text-white cursor-pointer">
                       THIS{' '}
                       </a>
                     and select DOWNLOAD.
