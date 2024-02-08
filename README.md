@@ -15,7 +15,7 @@ This project is a Rumble video downloader that simplifies the process of downloa
 - **Next.js**: Utilized for server-side rendering and creating a seamless user experience.
 - **React**: Used for building the front-end interface and managing application state.
 - **Tailwind CSS**: Employed for styling the user interface and ensuring responsiveness.
-- **Next.js Server Action**: Leveraging the power of Next.js, the application utilizes server-side rendering for a smooth user experience.
+- **Next.js Server Action**: Leveraging the power of Next.js, the application utilizes server action to bypass cors and for a smooth user experience.
 
 ## Getting Started
 
