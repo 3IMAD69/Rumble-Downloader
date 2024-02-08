@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Rumble Video Downloader
+
+## Overview
+
+This project is a Rumble video downloader that simplifies the process of downloading Rumble videos. With this tool, users can easily download Rumble videos by simply pasting the video link. The application takes care of the rest, providing users with various download options in high quality.
+
+## Features
+
+- **Easy Download**: Simply paste the Rumble video link and get access to download options.
+- **High Quality**: Download videos in high quality with ease.
+
+  
+## Technologies Used
+
+- **Next.js**: Utilized for server-side rendering and creating a seamless user experience.
+- **React**: Used for building the front-end interface and managing application state.
+- **Tailwind CSS**: Employed for styling the user interface and ensuring responsiveness.
+- **Next.js Server Action**: Leveraging the power of Next.js, the application utilizes server action to bypass cors and for a smooth user experience.
 
 ## Getting Started
 
-First, run the development server:
+To get started with using the Rumble Video Downloader, simply follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. Clone the repository to your local machine.
+2. Install dependencies using `npm install`.
+3. Run the development server using `npm run dev`.
+4. Access the application in your web browser at `http://localhost:3000`.
+5. Paste the Rumble video link into the provided input field and initiate the download.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Experience with Next.js
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Implementing the project with Next.js was a truly enriching experience. Leveraging the capabilities of Next.js, such as server-side rendering and automatic code splitting, greatly enhanced the performance and user experience of the application. Additionally, the ease of deployment and scalability offered by Next.js made it an excellent choice for building this project.
