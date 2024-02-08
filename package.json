@@ -1,51 +1,33 @@
 {
-  "homepage": "http://3imad69.github.io/Rumble-Downloader",
-  "name": "rumble-downloader",
+  "name": "new-rumble-downloader",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
-    "@headlessui/react": "^1.6.6",
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.3.0",
-    "@testing-library/user-event": "^13.5.0",
-    "axios": "^0.27.2",
-    "cheerio": "^1.0.0-rc.12",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-loader-spinner": "^5.3.3",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
-  },
   "scripts": {
-    "start": "react-scripts start",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+  "dependencies": {
+    "@headlessui/react": "^1.7.18",
+    "@types/cheerio": "^0.22.35",
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "next": "14.1.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-loader-spinner": "^6.1.6",
+    "zod": "^3.22.4"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.8",
-    "gh-pages": "^4.0.0",
-    "postcss": "^8.4.16",
-    "tailwindcss": "^3.1.8"
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
   }
 }
