@@ -30,3 +30,6 @@ To get started with using the Rumble Video Downloader, simply follow these steps
 ## Experience with Next.js
 
 Implementing the project with Next.js was a truly enriching experience. Leveraging the capabilities of Next.js, such as server-side rendering and automatic code splitting, greatly enhanced the performance and user experience of the application. Additionally, the ease of deployment and scalability offered by Next.js made it an excellent choice for building this project.
+
+
+![Screenshot_2024-02-08_19-13-19](https://github.com/3IMAD69/Rumble-Downloader/assets/83024321/e7cfe2d4-eb1d-472f-a1c3-f633f43e6e7f)
