@@ -28,7 +28,9 @@ export default function Rumbled() {
     function openModal() {
       setIsOpen(true)
     }
+
     const LinksScroll = () =>  LinksRef.current?.scrollIntoView({behavior:'smooth'}) 
+    
     useEffect(()=>
     {
       if (state?.data)
@@ -79,7 +81,7 @@ export default function Rumbled() {
                 </div>
                 <p className="mt-3 text-sm text-gray-300 sm:mt-4">
                      If download doesn't work You can also try{' '}
-                     <a href="" onClick={openModal} className="font-medium text-white cursor-pointer">
+                     <a onClick={openModal} className="font-medium text-white cursor-pointer">
                       THIS{' '}
                       </a>
                     and select DOWNLOAD.
