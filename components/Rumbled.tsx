@@ -184,7 +184,7 @@ export default function Rumbled() {
                 <div className='lg:ml-12'>
                     <div className='flex flex-wrap justify-center gap-5'> 
                           {
-                              Object.keys(Data.ua.mp4).map((key)=>(
+                              Data?.ua && Data?.ua?.mp4 && Object.keys(Data.ua.mp4).map((key)=>(
                                   <ButtonsGroup quality={key} size={Data.ua.mp4[key as keyof Mp42 ].meta.size} DownLoadLink={Data.ua.mp4[key as keyof Mp42].url}/>
                               ))
                           }
